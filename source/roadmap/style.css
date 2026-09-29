@@ -250,3 +250,5 @@ ul.findings li b{font-weight:700;}
 .colophon h4{margin:0 0 1mm;font-size:6.6pt;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--c1);}
 .colophon p{margin:0 0 1mm;}
 .colophon p:last-child{margin-bottom:0;}
+.colophon a{overflow-wrap:anywhere;}
+.colophon a.url{white-space:nowrap;}

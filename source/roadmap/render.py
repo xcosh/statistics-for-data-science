@@ -8,7 +8,7 @@ OUT = HERE / "statistics_learning_roadmap_v8.pdf"
 FOOTER = """
 <div style="width:100%;font-family:'DejaVu Sans',sans-serif;font-size:7px;color:#9aa3ae;
  padding:0 14mm;display:flex;justify-content:space-between;">
- <span>Статистика для Data Science · дорожная карта · версия 8 · составитель — Claude (Anthropic) · CC BY 4.0</span>
+ <span>Статистика для Data Science · дорожная карта · версия 8 · составитель — Claude (Anthropic) · CC BY 4.0 · xcosh.github.io/statistics-for-data-science</span>
  <span><span class="pageNumber"></span> / <span class="totalPages"></span></span>
 </div>"""
 

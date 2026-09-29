@@ -336,7 +336,8 @@ COLOPHON = """
   <p><b>Составитель — Claude (Anthropic).</b> Справочник подготовлен искусственным интеллектом: числа в примерах
     пересчитаны кодом, фрагменты Python запускаются, текст дважды проверен отдельными проверочными прогонами ИИ.
     Экспертом-человеком он не рецензировался, поэтому неточности возможны: если найдёте ошибку, сообщите о ней
-    <span class="gh" data-gh="issues">в разделе Issues репозитория проекта на GitHub</span>.</p>
+    <a class="gh" data-gh="issues" href="https://github.com/xcosh/statistics-for-data-science/issues">в разделе Issues репозитория проекта на GitHub</a>. Актуальные
+    версии справочника и дорожная карта к нему — на сайте <a class="url" href="https://xcosh.github.io/statistics-for-data-science/">xcosh.github.io/statistics-for-data-science</a>.</p>
   <p><b>Лицензия CC BY 4.0:</b> справочник можно копировать, распространять и переделывать, в том числе
     для коммерческого использования, указав источник.</p>
 </div>"""
