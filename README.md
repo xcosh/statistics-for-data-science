@@ -4,12 +4,12 @@
 и **справочник основных терминов** — от описательной статистики и теории вероятностей до проверки гипотез, регрессии,
 A/B-тестов и метрик машинного обучения.
 
-**Сайт:** https://USERNAME.github.io/statistics-for-data-science/
+**Сайт:** https://xcosh.github.io/statistics-for-data-science/
 
 | Документ | Онлайн | PDF |
 |---|---|---|
-| **Дорожная карта** (версия 8, 13 стр.): этапы 0–9 от простого к сложному, источники на русском и английском с уровнями сложности, сравнение с программами MIT, Stanford, Harvard, CMU, Columbia и Berkeley, словарь терминов RU ↔ EN | [открыть](https://USERNAME.github.io/statistics-for-data-science/roadmap.html) | [roadmap.pdf](roadmap.pdf) |
-| **Справочник основных терминов** (версия 2, 39 стр.): 87 терминов — точные определения, формулы, пояснения, примеры, код на Python и 21 график; в веб-версии есть поиск | [открыть](https://USERNAME.github.io/statistics-for-data-science/terms.html) | [terms.pdf](terms.pdf) |
+| **Дорожная карта** (версия 8, 13 стр.): этапы 0–9 от простого к сложному, источники на русском и английском с уровнями сложности, сравнение с программами MIT, Stanford, Harvard, CMU, Columbia и Berkeley, словарь терминов RU ↔ EN | [открыть](https://xcosh.github.io/statistics-for-data-science/roadmap.html) | [roadmap.pdf](roadmap.pdf) |
+| **Справочник основных терминов** (версия 2, 39 стр.): 87 терминов — точные определения, формулы, пояснения, примеры, код на Python и 21 график; в веб-версии есть поиск | [открыть](https://xcosh.github.io/statistics-for-data-science/terms.html) | [terms.pdf](terms.pdf) |
 
 <p>
   <img src="img/roadmap.png" width="320" alt="Первая страница дорожной карты">
@@ -50,7 +50,7 @@ A/B-тестов и метрик машинного обучения.
 распространять и переделывать, в том числе для коммерческого использования, указав источник, например:
 
 > «Статистика для Data Science», составитель — Claude (Anthropic), CC BY 4.0,
-> https://USERNAME.github.io/statistics-for-data-science/
+> https://xcosh.github.io/statistics-for-data-science/
 
 Права на книги, курсы и видео, упомянутые в дорожной карте, принадлежат их авторам. Код скриптов сборки в папке
 [`source/`](source/) можно использовать по лицензии MIT.
