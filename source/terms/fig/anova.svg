@@ -1,0 +1,243 @@
+<svg class="chart" role="img" aria-labelledby="anova-cap" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 283.464567 130.393701" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="anova-figure_1">
+  <g id="anova-patch_1">
+   <path d="M 0 130.393701 
+L 283.464567 130.393701 
+L 283.464567 0 
+L 0 0 
+L 0 130.393701 
+z
+" style="fill: none"/>
+  </g>
+  <g id="anova-axes_1">
+   <g id="anova-patch_2">
+    <path d="M 28.346457 108.226772 
+L 274.96063 108.226772 
+L 274.96063 5.215748 
+L 28.346457 5.215748 
+L 28.346457 108.226772 
+z
+" style="fill: none"/>
+   </g>
+   <g id="anova-PathCollection_1">
+    <defs>
+     <path id="anova-m918d47169e" d="M 0 1.322876 
+C 0.350831 1.322876 0.68734 1.183489 0.935414 0.935414 
+C 1.183489 0.68734 1.322876 0.350831 1.322876 0 
+C 1.322876 -0.350831 1.183489 -0.68734 0.935414 -0.935414 
+C 0.68734 -1.183489 0.350831 -1.322876 0 -1.322876 
+C -0.350831 -1.322876 -0.68734 -1.183489 -0.935414 -0.935414 
+C -1.183489 -0.68734 -1.322876 -0.350831 -1.322876 0 
+C -1.322876 0.350831 -1.183489 0.68734 -0.935414 0.935414 
+C -0.68734 1.183489 -0.350831 1.322876 0 1.322876 
+z
+"/>
+    </defs>
+    <g clip-path="url(#anova-p2edf225bc5)">
+     <use xlink:href="#anova-m918d47169e" x="99.091241" y="58.774032" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="92.776537" y="83.179757" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="95.82133" y="79.102968" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="87.219041" y="64.395687" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="95.80959" y="70.066714" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="90.178211" y="74.522028" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="88.144801" y="91.925112" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="95.293121" y="103.544452" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="89.254197" y="78.205391" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="95.440234" y="94.337044" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="98.269969" y="70.012388" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="87.092491" y="81.20084" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="85.854463" y="98.575256" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="88.046159" y="80.175124" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="90.036077" y="72.156686" style="fill: #2a78d6; fill-opacity: 0.6"/>
+    </g>
+   </g>
+   <g id="anova-PathCollection_2">
+    <g clip-path="url(#anova-p2edf225bc5)">
+     <use xlink:href="#anova-m918d47169e" x="156.05023" y="63.649929" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="150.450243" y="81.088653" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="155.377389" y="62.109491" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="161.188695" y="60.389889" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="146.528083" y="51.902276" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="156.627714" y="53.759563" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="151.206748" y="83.371613" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="150.078422" y="75.915686" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="153.610273" y="55.872382" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="144.303899" y="97.71038" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="148.09972" y="52.757031" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="147.302573" y="82.121815" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="153.779102" y="74.535327" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="146.360186" y="40.658023" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="142.941751" y="68.045587" style="fill: #2a78d6; fill-opacity: 0.6"/>
+    </g>
+   </g>
+   <g id="anova-PathCollection_3">
+    <g clip-path="url(#anova-p2edf225bc5)">
+     <use xlink:href="#anova-m918d47169e" x="202.961751" y="54.19392" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="217.08768" y="43.599205" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="215.341513" y="50.417076" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="218.531693" y="60.079485" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="215.213802" y="44.172369" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="203.185096" y="9.898067" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="215.674709" y="32.006844" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="212.707881" y="40.756728" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="220.6919" y="44.037474" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="206.602305" y="34.219933" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="203.67705" y="37.374976" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="218.210796" y="64.272138" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="210.31525" y="39.500671" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="211.225293" y="47.761862" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#anova-m918d47169e" x="215.979323" y="17.544476" style="fill: #2a78d6; fill-opacity: 0.6"/>
+    </g>
+   </g>
+   <g id="anova-matplotlib.axis_1">
+    <g id="anova-xtick_1">
+     <g id="anova-line2d_1"/>
+     <g id="anova-text_1">
+      <text style="font-size: 6.3px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="91.503745" y="114.310022" transform="rotate(-0 91.503745 114.310022)">группа A</text>
+     </g>
+    </g>
+    <g id="anova-xtick_2">
+     <g id="anova-line2d_2"/>
+     <g id="anova-text_2">
+      <text style="font-size: 6.3px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="151.653543" y="114.310022" transform="rotate(-0 151.653543 114.310022)">группа B</text>
+     </g>
+    </g>
+    <g id="anova-xtick_3">
+     <g id="anova-line2d_3"/>
+     <g id="anova-text_3">
+      <text style="font-size: 6.3px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="211.803342" y="114.372037" transform="rotate(-0 211.803342 114.372037)">группа C</text>
+     </g>
+    </g>
+    <g id="anova-text_4">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="151.653543" y="125.225209" transform="rotate(-0 151.653543 125.225209)">F = 29,0, p &lt; 0,001, η² = 0,58; оранжевые линии — средние групп</text>
+    </g>
+   </g>
+   <g id="anova-matplotlib.axis_2">
+    <g id="anova-ytick_1">
+     <g id="anova-line2d_4">
+      <defs>
+       <path id="anova-m814daea6f0" d="M 0 0 
+L -2 0 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#anova-m814daea6f0" x="28.346457" y="85.037991" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="anova-text_5">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="87.293241" transform="rotate(-0 24.846457 87.293241)">20</text>
+     </g>
+    </g>
+    <g id="anova-ytick_2">
+     <g id="anova-line2d_5">
+      <g>
+       <use xlink:href="#anova-m814daea6f0" x="28.346457" y="60.819793" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="anova-text_6">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="63.075043" transform="rotate(-0 24.846457 63.075043)">24</text>
+     </g>
+    </g>
+    <g id="anova-ytick_3">
+     <g id="anova-line2d_6">
+      <g>
+       <use xlink:href="#anova-m814daea6f0" x="28.346457" y="36.601595" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="anova-text_7">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="38.856845" transform="rotate(-0 24.846457 38.856845)">28</text>
+     </g>
+    </g>
+    <g id="anova-ytick_4">
+     <g id="anova-line2d_7">
+      <g>
+       <use xlink:href="#anova-m814daea6f0" x="28.346457" y="12.383396" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="anova-text_8">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="14.638646" transform="rotate(-0 24.846457 14.638646)">32</text>
+     </g>
+    </g>
+    <g id="anova-text_9">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="11.7138" y="56.72126" transform="rotate(-90 11.7138 56.72126)">значение</text>
+    </g>
+   </g>
+   <g id="anova-line2d_8">
+    <path d="M 74.661801 80.011565 
+L 108.345688 80.011565 
+" clip-path="url(#anova-p2edf225bc5)" style="fill: none; stroke: #eb6834; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="anova-line2d_9">
+    <path d="M 134.8116 66.925843 
+L 168.495487 66.925843 
+" clip-path="url(#anova-p2edf225bc5)" style="fill: none; stroke: #eb6834; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="anova-line2d_10">
+    <path d="M 194.961398 41.322348 
+L 228.645285 41.322348 
+" clip-path="url(#anova-p2edf225bc5)" style="fill: none; stroke: #eb6834; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="anova-line2d_11">
+    <path d="M 28.346457 62.753252 
+L 274.96063 62.753252 
+" clip-path="url(#anova-p2edf225bc5)" style="fill: none; stroke: #323c4a; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="anova-patch_3">
+    <path d="M 28.346457 108.226772 
+L 28.346457 5.215748 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="anova-patch_4">
+    <path d="M 28.346457 108.226772 
+L 274.96063 108.226772 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="anova-text_10">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #323c4a" x="31.353947" y="59.409785" transform="rotate(-0 31.353947 59.409785)">общее среднее</text>
+   </g>
+   <g id="anova-patch_5">
+    <path d="M 232.254273 10.568888 
+Q 232.254273 37.085103 232.254273 63.601318 
+" style="fill: none; stroke: #5d6775; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 230.854273 13.368888 
+L 232.254273 10.568888 
+L 233.654273 13.368888 
+" style="fill: none; stroke: #5d6775; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 233.654273 60.801318 
+L 232.254273 63.601318 
+L 230.854273 60.801318 
+" style="fill: none; stroke: #5d6775; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="anova-text_11">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(235.863261 14.23963)">внутри-</text>
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(235.863261 20.965067)">групповой</text>
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(235.863261 27.45088)">разброс</text>
+   </g>
+   <g id="anova-patch_6">
+    <path d="M 71.052814 63.535876 
+Q 71.052814 71.382409 71.052814 79.228942 
+" style="fill: none; stroke: #eb6834; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 69.652814 66.335876 
+L 71.052814 63.535876 
+L 72.452814 66.335876 
+" style="fill: none; stroke: #eb6834; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 72.452814 76.428942 
+L 71.052814 79.228942 
+L 69.652814 76.428942 
+" style="fill: none; stroke: #eb6834; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="anova-text_12">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(44.654138 69.566565)">между-</text>
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(36.591638 76.292003)">групповой</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="anova-p2edf225bc5">
+   <rect x="28.346457" y="5.215748" width="246.614173" height="103.011024"/>
+  </clipPath>
+ </defs>
+</svg>

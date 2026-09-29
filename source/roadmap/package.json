@@ -1,0 +1,10 @@
+{
+  "name": "statistics-roadmap",
+  "private": true,
+  "description": "Fonts for building the roadmap PDF/HTML",
+  "dependencies": {
+    "@fontsource/inter": "5.3.0",
+    "@fontsource/jetbrains-mono": "5.3.0",
+    "@fontsource/pt-serif": "5.3.0"
+  }
+}

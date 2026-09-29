@@ -1,0 +1,510 @@
+<svg class="chart" role="img" aria-labelledby="qq-cap" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 283.464567 119.055118" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="qq-figure_1">
+  <g id="qq-patch_1">
+   <path d="M 0 119.055118 
+L 283.464567 119.055118 
+L 283.464567 0 
+L 0 0 
+L 0 119.055118 
+z
+" style="fill: none"/>
+  </g>
+  <g id="qq-axes_1">
+   <g id="qq-patch_2">
+    <path d="M 28.346457 95.244094 
+L 137.753833 95.244094 
+L 137.753833 14.286614 
+L 28.346457 14.286614 
+L 28.346457 95.244094 
+z
+" style="fill: none"/>
+   </g>
+   <g id="qq-PathCollection_1">
+    <defs>
+     <path id="qq-m6e9752b853" d="M 0 1.118034 
+C 0.296506 1.118034 0.580908 1.000231 0.790569 0.790569 
+C 1.000231 0.580908 1.118034 0.296506 1.118034 0 
+C 1.118034 -0.296506 1.000231 -0.580908 0.790569 -0.790569 
+C 0.580908 -1.000231 0.296506 -1.118034 0 -1.118034 
+C -0.296506 -1.118034 -0.580908 -1.000231 -0.790569 -0.790569 
+C -1.000231 -0.580908 -1.118034 -0.296506 -1.118034 0 
+C -1.118034 0.296506 -1.000231 0.580908 -0.790569 0.790569 
+C -0.580908 1.000231 -0.296506 1.118034 0 1.118034 
+z
+"/>
+    </defs>
+    <g clip-path="url(#qq-p5203fe5d38)">
+     <use xlink:href="#qq-m6e9752b853" x="33.319519" y="88.896294" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="39.788386" y="86.858805" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="43.513056" y="84.840882" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="46.200533" y="82.583254" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="48.337383" y="81.00926" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="50.129405" y="80.451934" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="51.683898" y="80.04586" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="53.064229" y="79.525436" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="54.311091" y="78.730707" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="55.452242" y="76.222893" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="56.507503" y="76.013251" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="57.491545" y="74.800142" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="58.41555" y="74.61343" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="59.288241" y="73.206882" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="60.116566" y="72.236038" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="60.906153" y="72.207721" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="61.661626" y="72.145625" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="62.386839" y="71.055698" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="63.085034" y="69.906989" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="63.758972" y="69.343254" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="64.41102" y="67.535118" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="65.04323" y="67.442235" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="65.657387" y="67.34299" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="66.255061" y="66.17077" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="66.837637" y="66.033244" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="67.406345" y="65.832063" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="67.962284" y="65.718992" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="68.506439" y="65.664539" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="69.039698" y="65.618136" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="69.562867" y="64.661551" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="70.076676" y="64.588276" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="70.581792" y="63.885108" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="71.078828" y="63.847885" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="71.568344" y="63.80809" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="72.050859" y="63.569531" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="72.526853" y="63.066761" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="72.99677" y="62.886023" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="73.461025" y="61.284954" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="73.920005" y="60.991767" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="74.374074" y="60.844312" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="74.823571" y="60.841764" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="75.268818" y="60.704443" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="75.710118" y="60.578054" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="76.147758" y="60.454589" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="76.582013" y="59.662364" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="77.013141" y="59.512297" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="77.441392" y="58.383177" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="77.867004" y="58.3802" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="78.290206" y="58.088649" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="78.711219" y="58.073905" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="79.130256" y="57.408891" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="79.547524" y="57.228815" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="79.963223" y="57.204314" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="80.377549" y="56.857493" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="80.790695" y="56.825157" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="81.202848" y="54.740024" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="81.614192" y="54.70406" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="82.02491" y="53.68142" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="82.435182" y="53.648485" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="82.845187" y="53.622081" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="83.255103" y="53.388368" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="83.665108" y="53.177461" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="84.07538" y="52.862737" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="84.486098" y="52.801741" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="84.897442" y="52.392346" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="85.309595" y="52.118501" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="85.722741" y="51.638245" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="86.137067" y="51.143515" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="86.552767" y="51.009364" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="86.970034" y="50.614728" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="87.389071" y="50.565054" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="87.810084" y="49.797805" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="88.233286" y="49.652678" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="88.658898" y="49.577205" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="89.087149" y="49.513342" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="89.518277" y="49.340141" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="89.952532" y="49.027302" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="90.390172" y="48.808895" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="90.831472" y="47.882889" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="91.276719" y="47.346587" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="91.726217" y="47.000346" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="92.180285" y="46.716961" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="92.639265" y="46.68923" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="93.103521" y="45.601447" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="93.573438" y="45.381679" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="94.049431" y="44.562615" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="94.531946" y="44.223976" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="95.021462" y="44.175415" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="95.518498" y="44.120825" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="96.023614" y="44.028786" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="96.537423" y="43.920398" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="97.060592" y="43.639975" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="97.593851" y="43.547887" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="98.138006" y="43.546853" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="98.693945" y="43.234753" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="99.262653" y="43.159705" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="99.845229" y="43.042411" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="100.442903" y="42.905968" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="101.05706" y="42.625515" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="101.68927" y="42.566662" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="102.341318" y="41.556096" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="103.015256" y="41.398244" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="103.713451" y="41.380436" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="104.438664" y="41.147283" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="105.194138" y="40.191277" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="105.983724" y="39.962241" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="106.812049" y="38.717899" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="107.68474" y="38.629244" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="108.608745" y="38.486722" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="109.592787" y="38.176497" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="110.648048" y="36.065779" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="111.789199" y="34.936528" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="113.036061" y="34.274834" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="114.416392" y="32.151464" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="115.970885" y="29.32961" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="117.762907" y="26.152124" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="119.899757" y="25.379645" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="122.587234" y="24.876812" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="126.311904" y="24.874028" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="132.780771" y="20.718565" style="fill: #2a78d6; fill-opacity: 0.8"/>
+    </g>
+   </g>
+   <g id="qq-matplotlib.axis_1">
+    <g id="qq-xtick_1">
+     <g id="qq-line2d_1">
+      <defs>
+       <path id="qq-m8317c1aed1" d="M 0 0 
+L 0 2 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#qq-m8317c1aed1" x="43.683596" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_1">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="43.683596" y="103.254594" transform="rotate(-0 43.683596 103.254594)">−2</text>
+     </g>
+    </g>
+    <g id="qq-xtick_2">
+     <g id="qq-line2d_2">
+      <g>
+       <use xlink:href="#qq-m8317c1aed1" x="83.050145" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_2">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="83.050145" y="103.254594" transform="rotate(-0 83.050145 103.254594)">0</text>
+     </g>
+    </g>
+    <g id="qq-xtick_3">
+     <g id="qq-line2d_3">
+      <g>
+       <use xlink:href="#qq-m8317c1aed1" x="122.416695" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_3">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="122.416695" y="103.254594" transform="rotate(-0 122.416695 103.254594)">2</text>
+     </g>
+    </g>
+    <g id="qq-text_4">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="83.050145" y="113.615188" transform="rotate(-0 83.050145 113.615188)">теоретические квантили N(0; 1)</text>
+    </g>
+   </g>
+   <g id="qq-matplotlib.axis_2">
+    <g id="qq-ytick_1">
+     <g id="qq-line2d_4">
+      <defs>
+       <path id="qq-m814daea6f0" d="M 0 0 
+L -2 0 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="28.346457" y="86.749171" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_5">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="89.004421" transform="rotate(-0 24.846457 89.004421)">−2</text>
+     </g>
+    </g>
+    <g id="qq-ytick_2">
+     <g id="qq-line2d_5">
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="28.346457" y="70.363178" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_6">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="72.618428" transform="rotate(-0 24.846457 72.618428)">−1</text>
+     </g>
+    </g>
+    <g id="qq-ytick_3">
+     <g id="qq-line2d_6">
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="28.346457" y="53.977185" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_7">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="56.232435" transform="rotate(-0 24.846457 56.232435)">0</text>
+     </g>
+    </g>
+    <g id="qq-ytick_4">
+     <g id="qq-line2d_7">
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="28.346457" y="37.591192" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_8">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="39.846442" transform="rotate(-0 24.846457 39.846442)">1</text>
+     </g>
+    </g>
+    <g id="qq-ytick_5">
+     <g id="qq-line2d_8">
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="28.346457" y="21.2052" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_9">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="23.46045" transform="rotate(-0 24.846457 23.46045)">2</text>
+     </g>
+    </g>
+    <g id="qq-text_10">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="11.616925" y="54.765354" transform="rotate(-90 11.616925 54.765354)">выборочные квантили</text>
+    </g>
+   </g>
+   <g id="qq-line2d_9">
+    <path d="M 33.319519 91.564209 
+L 132.780771 17.9665 
+" clip-path="url(#qq-p5203fe5d38)" style="fill: none; stroke: #eb6834; stroke-linecap: round"/>
+   </g>
+   <g id="qq-patch_3">
+    <path d="M 28.346457 95.244094 
+L 28.346457 14.286614 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="qq-patch_4">
+    <path d="M 28.346457 95.244094 
+L 137.753833 95.244094 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="qq-text_11">
+    <text style="font-weight: 600; font-size: 6.5px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="28.346457" y="12.286614" transform="rotate(-0 28.346457 12.286614)">нормальные данные</text>
+   </g>
+  </g>
+  <g id="qq-axes_2">
+   <g id="qq-patch_5">
+    <path d="M 168.387899 95.244094 
+L 277.795276 95.244094 
+L 277.795276 14.286614 
+L 168.387899 14.286614 
+L 168.387899 95.244094 
+z
+" style="fill: none"/>
+   </g>
+   <g id="qq-PathCollection_2">
+    <g clip-path="url(#qq-p11ad9d8652)">
+     <use xlink:href="#qq-m6e9752b853" x="173.360961" y="77.290876" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="179.829828" y="76.720585" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="183.554498" y="76.706779" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="186.241976" y="76.447319" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="188.378825" y="76.332271" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="190.170847" y="75.874831" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="191.72534" y="75.777335" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="193.105671" y="75.476429" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="194.352534" y="75.416168" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="195.493684" y="74.83266" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="196.548945" y="74.802851" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="197.532988" y="74.599458" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="198.456992" y="74.592872" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="199.329683" y="74.182447" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="200.158008" y="74.039039" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="200.947595" y="74.004358" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="201.703068" y="73.839762" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="202.428281" y="73.642161" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="203.126476" y="73.501002" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="203.800414" y="73.108336" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="204.452463" y="73.02117" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="205.084672" y="72.891332" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="205.69883" y="72.838721" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="206.296504" y="72.529675" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="206.87908" y="72.307675" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="207.447787" y="72.273801" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="208.003726" y="72.242565" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="208.547881" y="72.227192" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="209.08114" y="71.961304" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="209.604309" y="71.93638" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="210.118118" y="71.245618" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="210.623235" y="70.752141" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="211.12027" y="70.513315" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="211.609786" y="70.284952" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="212.092301" y="69.97907" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="212.568295" y="69.806118" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="213.038212" y="69.596356" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="213.502467" y="69.344696" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="213.961447" y="69.335676" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="214.415516" y="69.066665" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="214.865013" y="69.060303" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="215.31026" y="69.042927" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="215.75156" y="68.97496" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="216.1892" y="68.959976" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="216.623455" y="68.725893" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="217.054583" y="68.399071" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="217.482834" y="68.210814" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="217.908446" y="67.962409" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="218.331648" y="67.948981" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="218.752661" y="67.908235" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="219.171698" y="67.889737" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="219.588966" y="67.817064" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="220.004665" y="67.740168" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="220.418992" y="67.363179" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="220.832137" y="67.070636" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="221.24429" y="67.048878" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="221.655634" y="66.71617" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="222.066352" y="66.566286" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="222.476624" y="66.469921" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="222.886629" y="66.103558" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="223.296545" y="66.070356" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="223.70655" y="65.935864" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="224.116822" y="65.651353" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="224.52754" y="65.484142" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="224.938884" y="65.349809" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="225.351037" y="65.256115" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="225.764183" y="65.026074" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="226.17851" y="64.738024" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="226.594209" y="64.726947" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="227.011476" y="64.688257" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="227.430513" y="63.996079" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="227.851526" y="63.875549" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="228.274728" y="63.535556" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="228.70034" y="63.487572" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="229.128591" y="63.450504" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="229.55972" y="63.222529" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="229.993974" y="63.156395" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="230.431615" y="63.008813" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="230.872915" y="62.483739" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="231.318162" y="62.128702" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="231.767659" y="61.013706" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="232.221727" y="60.882795" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="232.680708" y="60.799109" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="233.144963" y="60.551852" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="233.61488" y="60.019329" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="234.090873" y="59.978402" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="234.573388" y="59.285797" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="235.062904" y="59.270895" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="235.55994" y="58.967745" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="236.065057" y="58.409486" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="236.578866" y="58.356904" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="237.102034" y="57.386114" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="237.635294" y="55.509336" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="238.179448" y="54.20774" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="238.735387" y="53.967057" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="239.304095" y="53.027199" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="239.886671" y="52.597929" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="240.484345" y="52.298443" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="241.098502" y="52.06547" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="241.730712" y="50.528468" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="242.38276" y="50.08502" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="243.056698" y="49.622" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="243.754893" y="47.845869" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="244.480106" y="46.755112" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="245.23558" y="45.779866" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="246.025166" y="45.394634" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="246.853491" y="45.235646" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="247.726183" y="44.888419" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="248.650187" y="44.204806" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="249.634229" y="43.816492" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="250.68949" y="43.663707" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="251.830641" y="43.039248" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="253.077503" y="41.505196" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="254.457835" y="38.448489" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="256.012327" y="36.305098" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="257.804349" y="35.308935" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="259.941199" y="33.176299" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="262.628677" y="30.632992" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="266.353347" y="24.871874" style="fill: #2a78d6; fill-opacity: 0.8"/>
+     <use xlink:href="#qq-m6e9752b853" x="272.822213" y="17.9665" style="fill: #2a78d6; fill-opacity: 0.8"/>
+    </g>
+   </g>
+   <g id="qq-matplotlib.axis_3">
+    <g id="qq-xtick_4">
+     <g id="qq-line2d_10">
+      <g>
+       <use xlink:href="#qq-m8317c1aed1" x="183.725038" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_12">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="183.725038" y="103.254594" transform="rotate(-0 183.725038 103.254594)">−2</text>
+     </g>
+    </g>
+    <g id="qq-xtick_5">
+     <g id="qq-line2d_11">
+      <g>
+       <use xlink:href="#qq-m8317c1aed1" x="223.091587" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_13">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="223.091587" y="103.254594" transform="rotate(-0 223.091587 103.254594)">0</text>
+     </g>
+    </g>
+    <g id="qq-xtick_6">
+     <g id="qq-line2d_12">
+      <g>
+       <use xlink:href="#qq-m8317c1aed1" x="262.458137" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_14">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="262.458137" y="103.254594" transform="rotate(-0 262.458137 103.254594)">2</text>
+     </g>
+    </g>
+    <g id="qq-text_15">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="223.091587" y="113.615188" transform="rotate(-0 223.091587 113.615188)">теоретические квантили N(0; 1)</text>
+    </g>
+   </g>
+   <g id="qq-matplotlib.axis_4">
+    <g id="qq-ytick_6">
+     <g id="qq-line2d_13">
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="168.387899" y="82.167761" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_16">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="164.887899" y="84.423011" transform="rotate(-0 164.887899 84.423011)">0</text>
+     </g>
+    </g>
+    <g id="qq-ytick_7">
+     <g id="qq-line2d_14">
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="168.387899" y="58.621961" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_17">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="164.887899" y="60.877211" transform="rotate(-0 164.887899 60.877211)">1,5</text>
+     </g>
+    </g>
+    <g id="qq-ytick_8">
+     <g id="qq-line2d_15">
+      <g>
+       <use xlink:href="#qq-m814daea6f0" x="168.387899" y="35.076161" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="qq-text_18">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="164.887899" y="37.331411" transform="rotate(-0 164.887899 37.331411)">3</text>
+     </g>
+    </g>
+   </g>
+   <g id="qq-line2d_16">
+    <path d="M 173.360961 91.564209 
+L 272.822213 33.673516 
+" clip-path="url(#qq-p11ad9d8652)" style="fill: none; stroke: #eb6834; stroke-linecap: round"/>
+   </g>
+   <g id="qq-patch_6">
+    <path d="M 168.387899 95.244094 
+L 168.387899 14.286614 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="qq-patch_7">
+    <path d="M 168.387899 95.244094 
+L 277.795276 95.244094 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="qq-text_19">
+    <text style="font-weight: 600; font-size: 6.5px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="168.387899" y="12.286614" transform="rotate(-0 168.387899 12.286614)">скошенные вправо</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="qq-p5203fe5d38">
+   <rect x="28.346457" y="14.286614" width="109.407377" height="80.95748"/>
+  </clipPath>
+  <clipPath id="qq-p11ad9d8652">
+   <rect x="168.387899" y="14.286614" width="109.407377" height="80.95748"/>
+  </clipPath>
+ </defs>
+</svg>

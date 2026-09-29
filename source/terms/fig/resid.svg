@@ -1,0 +1,783 @@
+<svg class="chart" role="img" aria-labelledby="resid-cap" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 428.031496 113.385827" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="resid-figure_1">
+  <g id="resid-patch_1">
+   <path d="M 0 113.385827 
+L 428.031496 113.385827 
+L 428.031496 0 
+L 0 0 
+L 0 113.385827 
+z
+" style="fill: none"/>
+  </g>
+  <g id="resid-axes_1">
+   <g id="resid-patch_2">
+    <path d="M 23.541732 88.440945 
+L 139.881688 88.440945 
+L 139.881688 17.007874 
+L 23.541732 17.007874 
+L 23.541732 88.440945 
+z
+" style="fill: none"/>
+   </g>
+   <g id="resid-PathCollection_1">
+    <defs>
+     <path id="resid-mea888d5dc4" d="M 0 1.118034 
+C 0.296506 1.118034 0.580908 1.000231 0.790569 0.790569 
+C 1.000231 0.580908 1.118034 0.296506 1.118034 0 
+C 1.118034 -0.296506 1.000231 -0.580908 0.790569 -0.790569 
+C 0.580908 -1.000231 0.296506 -1.118034 0 -1.118034 
+C -0.296506 -1.118034 -0.580908 -1.000231 -0.790569 -0.790569 
+C -1.000231 -0.580908 -1.118034 -0.296506 -1.118034 0 
+C -1.118034 0.296506 -1.000231 0.580908 -0.790569 0.790569 
+C -0.580908 1.000231 -0.296506 1.118034 0 1.118034 
+z
+"/>
+    </defs>
+    <g clip-path="url(#resid-p24cbfc6806)">
+     <use xlink:href="#resid-mea888d5dc4" x="121.334484" y="50.985379" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="58.914079" y="66.562592" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="92.757793" y="38.236057" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="111.415049" y="71.723907" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="104.839606" y="68.403806" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="126.162964" y="34.845124" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="120.280055" y="60.831455" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="126.468684" y="47.822499" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="31.072567" y="46.157119" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="75.008416" y="54.42954" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="80.111365" y="49.799026" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="35.198728" y="53.824968" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="28.829912" y="53.07507" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="117.094776" y="37.547439" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="133.429838" y="39.619317" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="112.172074" y="47.659484" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="61.993875" y="43.381923" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="103.690453" y="57.968582" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="60.236868" y="62.683624" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="107.47942" y="63.03374" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="58.157673" y="45.097" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="111.956071" y="32.803977" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="133.904706" y="49.297561" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="133.743988" y="72.881559" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="122.683966" y="56.641327" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="125.887997" y="45.322718" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="103.997853" y="48.37042" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="87.552675" y="51.51525" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="127.003688" y="39.316851" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="37.828135" y="44.485353" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="67.82774" y="68.889838" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="93.056375" y="47.34455" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="79.339506" y="61.44654" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="113.054517" y="48.650993" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="49.099954" y="40.296943" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="34.888387" y="34.295966" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="41.763981" y="46.877783" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="131.234367" y="56.178661" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="42.433314" y="58.854522" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="52.417869" y="48.252227" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="68.568615" y="64.821817" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="94.926819" y="52.990238" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="111.903135" y="44.457447" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="36.642503" y="44.637525" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="127.859514" y="53.964699" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="109.837789" y="47.247089" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="62.5674" y="38.268675" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="48.484304" y="51.05164" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="91.987984" y="71.973082" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="91.852787" y="49.922346" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="56.843979" y="51.248621" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="46.351042" y="59.46032" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="110.231028" y="50.961109" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="100.19638" y="68.820016" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="113.845318" y="37.035335" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="51.72013" y="49.561108" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="105.60285" y="57.893092" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="36.209823" y="52.460863" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="29.01307" y="53.999008" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="47.425387" y="64.459494" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="111.897416" y="81.840383" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="86.009111" y="85.193987" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="94.208218" y="29.154761" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="91.621372" y="65.169073" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="96.260053" y="55.514165" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="62.775136" y="47.295015" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="105.324124" y="55.830601" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="29.797137" y="41.858563" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="68.5861" y="64.372267" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="34.076389" y="48.828566" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="41.689535" y="78.72297" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="125.008309" y="42.547214" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="92.693266" y="44.47215" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="112.848358" y="47.128927" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="93.032918" y="48.871073" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="89.413633" y="49.427747" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="113.280047" y="41.427625" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="94.897755" y="41.223057" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="82.825688" y="63.611417" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="87.771575" y="40.493455" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="89.095485" y="63.334371" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="64.820785" y="51.841669" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="99.670392" y="54.867182" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="71.757855" y="47.885211" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="98.253693" y="55.843346" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="80.093081" y="48.333251" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="108.301705" y="57.019312" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="102.377386" y="62.798083" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="32.448257" y="43.141689" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="111.909553" y="44.827099" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="124.16307" y="44.884017" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="63.64441" y="42.853346" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="106.642896" y="63.738588" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="118.664764" y="40.583556" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="81.594574" y="64.954702" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="42.038528" y="50.511386" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="106.485628" y="53.681866" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="117.957834" y="47.960353" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="61.558456" y="45.918154" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="51.610678" y="54.138845" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="110.251787" y="61.968893" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="83.452488" y="42.169617" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="29.834903" y="42.023076" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="49.159133" y="46.67745" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="51.481031" y="42.545055" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="90.454426" y="72.583474" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="88.037942" y="51.73774" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="83.546653" y="54.089767" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="64.716613" y="76.053458" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="70.209315" y="52.210744" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="81.765084" y="52.837437" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="89.088756" y="69.718911" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="88.679999" y="62.12589" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="104.772994" y="50.753038" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="134.593509" y="43.358311" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="108.343263" y="43.462861" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="80.71125" y="65.55643" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="132.757253" y="62.629677" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="41.612598" y="60.657526" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="130.154136" y="51.026529" style="fill: #2a78d6; fill-opacity: 0.75"/>
+    </g>
+   </g>
+   <g id="resid-matplotlib.axis_1">
+    <g id="resid-xtick_1">
+     <g id="resid-line2d_1">
+      <defs>
+       <path id="resid-m8317c1aed1" d="M 0 0 
+L 0 2 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="53.890389" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_1">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="53.890389" y="96.451445" transform="rotate(-0 53.890389 96.451445)">6</text>
+     </g>
+    </g>
+    <g id="resid-xtick_2">
+     <g id="resid-line2d_2">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="87.154876" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_2">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="87.154876" y="96.451445" transform="rotate(-0 87.154876 96.451445)">12</text>
+     </g>
+    </g>
+    <g id="resid-xtick_3">
+     <g id="resid-line2d_3">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="120.419363" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_3">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="120.419363" y="96.451445" transform="rotate(-0 120.419363 96.451445)">18</text>
+     </g>
+    </g>
+    <g id="resid-text_4">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="81.71171" y="106.995601" transform="rotate(-0 81.71171 106.995601)">прогноз ŷ</text>
+    </g>
+   </g>
+   <g id="resid-matplotlib.axis_2">
+    <g id="resid-ytick_1">
+     <g id="resid-line2d_4">
+      <defs>
+       <path id="resid-m814daea6f0" d="M 0 0 
+L -2 0 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="23.541732" y="83.190039" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_5">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="20.041732" y="85.445289" transform="rotate(-0 20.041732 85.445289)">−4</text>
+     </g>
+    </g>
+    <g id="resid-ytick_2">
+     <g id="resid-line2d_5">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="23.541732" y="67.957224" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_6">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="20.041732" y="70.212474" transform="rotate(-0 20.041732 70.212474)">−2</text>
+     </g>
+    </g>
+    <g id="resid-ytick_3">
+     <g id="resid-line2d_6">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="23.541732" y="52.724409" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_7">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="20.041732" y="54.979659" transform="rotate(-0 20.041732 54.979659)">0</text>
+     </g>
+    </g>
+    <g id="resid-ytick_4">
+     <g id="resid-line2d_7">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="23.541732" y="37.491595" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_8">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="20.041732" y="39.746845" transform="rotate(-0 20.041732 39.746845)">2</text>
+     </g>
+    </g>
+    <g id="resid-ytick_5">
+     <g id="resid-line2d_8">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="23.541732" y="22.25878" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_9">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="20.041732" y="24.51403" transform="rotate(-0 20.041732 24.51403)">4</text>
+     </g>
+    </g>
+    <g id="resid-text_10">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="6.58842" y="52.724409" transform="rotate(-90 6.58842 52.724409)">остаток e</text>
+    </g>
+   </g>
+   <g id="resid-line2d_9">
+    <path d="M 23.541732 52.724409 
+L 139.881688 52.724409 
+" clip-path="url(#resid-p24cbfc6806)" style="fill: none; stroke: #323c4a; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="resid-patch_3">
+    <path d="M 23.541732 88.440945 
+L 23.541732 17.007874 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="resid-patch_4">
+    <path d="M 23.541732 88.440945 
+L 139.881688 88.440945 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="resid-text_11">
+    <text style="font-weight: 600; font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="23.541732" y="15.007874" transform="rotate(-0 23.541732 15.007874)">предположения выполнены</text>
+   </g>
+  </g>
+  <g id="resid-axes_2">
+   <g id="resid-patch_5">
+    <path d="M 165.476479 88.440945 
+L 281.816435 88.440945 
+L 281.816435 17.007874 
+L 165.476479 17.007874 
+L 165.476479 88.440945 
+z
+" style="fill: none"/>
+   </g>
+   <g id="resid-PathCollection_2">
+    <g clip-path="url(#resid-pa06b03f587)">
+     <use xlink:href="#resid-mea888d5dc4" x="263.26923" y="45.996675" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="200.848826" y="59.795243" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="234.692539" y="61.939804" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="253.349796" y="50.823493" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="246.774353" y="58.272597" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="268.097711" y="42.393218" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="262.214801" y="46.859591" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="268.403431" y="34.760469" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="173.007314" y="24.936475" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="216.943162" y="61.547964" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="222.046112" y="71.190193" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="177.133474" y="36.543228" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="170.764658" y="30.311792" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="259.029522" y="60.732379" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="275.364584" y="31.845693" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="254.10682" y="60.561123" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="203.928621" y="55.018793" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="245.625199" y="57.613167" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="202.171615" y="62.571186" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="249.414167" y="56.665248" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="200.09242" y="56.697902" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="253.890818" y="45.819219" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="275.839452" y="23.18518" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="275.678734" y="20.254832" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="264.618712" y="39.878201" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="267.822743" y="32.376766" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="245.932599" y="53.284266" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="229.487422" y="62.270445" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="268.938434" y="36.27897" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="179.762881" y="33.435672" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="209.762486" y="65.488402" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="234.991121" y="58.768568" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="221.274252" y="67.777878" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="254.989263" y="55.103325" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="191.034701" y="42.883035" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="176.823133" y="35.857233" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="183.698728" y="42.277321" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="273.169113" y="34.983375" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="184.36806" y="46.722477" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="194.352615" y="55.361052" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="210.503361" y="68.30577" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="236.861566" y="58.966909" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="253.837882" y="56.333323" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="178.577249" y="41.829952" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="269.79426" y="30.523055" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="251.772536" y="52.041436" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="204.502146" y="71.088413" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="190.41905" y="52.681646" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="233.92273" y="60.937655" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="233.787533" y="68.456346" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="198.778725" y="58.660696" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="188.285788" y="49.110508" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="252.165775" y="64.282033" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="242.131127" y="65.436689" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="255.780064" y="48.203209" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="193.654876" y="47.149376" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="247.537597" y="58.59946" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="178.144569" y="36.349215" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="170.947816" y="23.051978" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="189.360134" y="48.458546" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="253.832162" y="51.062676" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="227.943857" y="70.097642" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="236.142965" y="64.268271" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="233.556119" y="63.075644" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="238.194799" y="61.015655" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="204.709883" y="67.896189" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="247.258871" y="54.956558" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="171.731883" y="26.109357" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="210.520847" y="63.404321" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="176.011135" y="40.424699" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="183.624282" y="42.658607" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="266.943055" y="45.668258" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="234.628012" y="75.583122" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="254.783104" y="51.942571" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="234.967664" y="64.781655" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="231.348379" y="65.526964" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="255.214794" y="51.185234" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="236.832502" y="64.075418" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="224.760434" y="61.935331" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="229.706321" y="62.642243" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="231.030231" y="58.915024" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="206.755531" y="51.613176" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="241.605138" y="58.562072" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="213.692601" y="61.685862" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="240.188439" y="54.487904" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="222.027827" y="70.211211" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="250.236452" y="57.509725" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="244.312132" y="59.17788" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="174.383004" y="37.076163" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="253.844299" y="48.999626" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="266.097816" y="33.237655" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="205.579156" y="67.004752" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="248.577642" y="60.844513" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="260.59951" y="42.580962" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="223.52932" y="60.825628" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="183.973274" y="50.191466" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="248.420374" y="55.251294" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="259.892581" y="48.098058" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="203.493203" y="68.400843" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="193.545424" y="54.947993" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="252.186534" y="57.066864" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="225.387234" y="66.182435" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="171.76965" y="26.536043" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="191.09388" y="52.084136" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="193.415777" y="53.657903" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="232.389173" y="66.254507" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="229.972688" y="63.951884" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="225.481399" y="62.570298" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="206.651359" y="58.325398" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="212.144062" y="68.513775" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="223.69983" y="70.084478" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="231.023502" y="68.782715" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="230.614745" y="59.99553" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="246.70774" y="56.875078" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="276.528255" y="28.666516" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="250.27801" y="61.192208" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="222.645996" y="70.985533" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="274.691999" y="28.117926" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="183.547344" y="47.5015" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="272.088882" y="32.103525" style="fill: #2a78d6; fill-opacity: 0.75"/>
+    </g>
+   </g>
+   <g id="resid-matplotlib.axis_3">
+    <g id="resid-xtick_4">
+     <g id="resid-line2d_10">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="179.342424" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_12">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="179.342424" y="96.451445" transform="rotate(-0 179.342424 96.451445)">6</text>
+     </g>
+    </g>
+    <g id="resid-xtick_5">
+     <g id="resid-line2d_11">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="211.362196" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_13">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="211.362196" y="96.451445" transform="rotate(-0 211.362196 96.451445)">12</text>
+     </g>
+    </g>
+    <g id="resid-xtick_6">
+     <g id="resid-line2d_12">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="243.381968" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_14">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="243.381968" y="96.451445" transform="rotate(-0 243.381968 96.451445)">18</text>
+     </g>
+    </g>
+    <g id="resid-xtick_7">
+     <g id="resid-line2d_13">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="275.401739" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_15">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="275.401739" y="96.451445" transform="rotate(-0 275.401739 96.451445)">24</text>
+     </g>
+    </g>
+    <g id="resid-text_16">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="223.646457" y="106.995601" transform="rotate(-0 223.646457 106.995601)">прогноз ŷ</text>
+    </g>
+   </g>
+   <g id="resid-matplotlib.axis_4">
+    <g id="resid-ytick_6">
+     <g id="resid-line2d_14">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="165.476479" y="86.64409" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_17">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="161.976479" y="88.89934" transform="rotate(-0 161.976479 88.89934)">−8</text>
+     </g>
+    </g>
+    <g id="resid-ytick_7">
+     <g id="resid-line2d_15">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="165.476479" y="69.68425" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_18">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="161.976479" y="71.9395" transform="rotate(-0 161.976479 71.9395)">−4</text>
+     </g>
+    </g>
+    <g id="resid-ytick_8">
+     <g id="resid-line2d_16">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="165.476479" y="52.724409" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_19">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="161.976479" y="54.979659" transform="rotate(-0 161.976479 54.979659)">0</text>
+     </g>
+    </g>
+    <g id="resid-ytick_9">
+     <g id="resid-line2d_17">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="165.476479" y="35.764569" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_20">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="161.976479" y="38.019819" transform="rotate(-0 161.976479 38.019819)">4</text>
+     </g>
+    </g>
+    <g id="resid-ytick_10">
+     <g id="resid-line2d_18">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="165.476479" y="18.804729" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_21">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="161.976479" y="21.059979" transform="rotate(-0 161.976479 21.059979)">8</text>
+     </g>
+    </g>
+   </g>
+   <g id="resid-line2d_19">
+    <path d="M 165.476479 52.724409 
+L 281.816435 52.724409 
+" clip-path="url(#resid-pa06b03f587)" style="fill: none; stroke: #323c4a; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="resid-patch_6">
+    <path d="M 165.476479 88.440945 
+L 165.476479 17.007874 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="resid-patch_7">
+    <path d="M 165.476479 88.440945 
+L 281.816435 88.440945 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="resid-text_22">
+    <text style="font-weight: 600; font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="165.476479" y="15.007874" transform="rotate(-0 165.476479 15.007874)">пропущена нелинейность</text>
+   </g>
+  </g>
+  <g id="resid-axes_3">
+   <g id="resid-patch_8">
+    <path d="M 307.411225 88.440945 
+L 423.751181 88.440945 
+L 423.751181 17.007874 
+L 307.411225 17.007874 
+L 307.411225 88.440945 
+z
+" style="fill: none"/>
+   </g>
+   <g id="resid-PathCollection_3">
+    <g clip-path="url(#resid-p686bac8400)">
+     <use xlink:href="#resid-mea888d5dc4" x="405.203976" y="32.59351" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="342.783572" y="54.346103" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="376.627286" y="43.687662" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="395.284542" y="69.783193" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="388.709099" y="47.447617" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="410.032457" y="46.56292" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="404.149547" y="63.310539" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="410.338177" y="31.004124" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="314.94206" y="54.082223" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="358.877909" y="57.435702" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="363.980858" y="54.645121" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="319.068221" y="52.40052" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="312.699405" y="55.144362" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="400.964269" y="49.099271" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="417.29933" y="65.118727" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="396.041567" y="48.417451" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="345.863368" y="55.799064" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="387.559946" y="52.325605" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="344.106361" y="49.177927" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="391.348913" y="50.879133" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="342.027166" y="50.471521" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="395.825564" y="42.639524" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="417.774198" y="44.201407" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="417.613481" y="46.981664" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="406.553459" y="50.246143" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="409.75749" y="41.663678" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="387.867345" y="38.048642" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="371.422168" y="35.725391" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="410.873181" y="25.405368" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="321.697628" y="55.792496" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="351.697232" y="50.970336" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="376.925868" y="47.163138" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="363.208998" y="42.96016" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="396.924009" y="37.961606" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="332.969447" y="58.499748" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="318.75788" y="53.509406" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="325.633474" y="58.002298" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="415.10386" y="57.621328" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="326.302807" y="56.092336" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="336.287362" y="55.766687" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="352.438108" y="42.877659" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="378.796312" y="57.191568" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="395.772628" y="57.348948" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="320.511996" y="53.656366" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="411.729006" y="35.147416" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="393.707282" y="71.671931" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="346.436892" y="44.174063" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="332.353796" y="56.098515" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="375.857477" y="61.3679" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="375.72228" y="50.725821" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="340.713471" y="50.066418" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="330.220534" y="45.000626" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="394.100521" y="40.509988" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="384.065873" y="57.969471" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="397.71481" y="53.773345" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="335.589623" y="57.095832" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="389.472343" y="44.02823" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="320.079315" y="52.457385" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="312.882563" y="54.401749" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="331.29488" y="49.776131" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="395.766909" y="72.008933" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="369.878603" y="56.348146" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="378.077711" y="60.989698" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="375.490865" y="57.592165" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="380.129546" y="68.375804" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="346.644629" y="47.816922" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="389.193617" y="62.390744" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="313.66663" y="54.24362" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="352.455593" y="45.430121" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="317.945882" y="51.653515" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="325.559028" y="50.765124" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="408.877802" y="82.368055" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="376.562758" y="54.92745" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="396.717851" y="55.691343" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="376.902411" y="58.605725" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="373.283125" y="59.304977" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="397.14954" y="58.220868" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="378.767248" y="46.123092" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="366.695181" y="56.154653" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="371.641067" y="64.190728" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="372.964978" y="66.513603" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="348.690277" y="52.130392" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="383.539885" y="70.00079" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="355.627348" y="48.022705" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="382.123186" y="56.967223" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="363.962573" y="56.396468" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="392.171198" y="48.765097" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="386.246878" y="55.604184" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="316.31775" y="53.16813" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="395.779046" y="67.105024" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="408.032562" y="76.291284" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="347.513902" y="42.024919" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="390.512389" y="49.50775" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="402.534257" y="85.193987" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="365.464067" y="38.619165" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="325.908021" y="57.324361" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="390.355121" y="27.741762" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="401.827327" y="27.176572" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="345.427949" y="48.356014" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="335.480171" y="53.341132" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="394.12128" y="61.811774" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="367.321981" y="44.266231" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="313.704396" y="54.463876" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="333.028626" y="49.56724" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="335.350523" y="54.43446" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="374.323919" y="66.650624" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="371.907435" y="58.348129" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="367.416146" y="51.689676" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="348.586105" y="55.689176" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="354.078808" y="51.762266" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="365.634576" y="59.745714" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="372.958249" y="37.238371" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="372.549491" y="56.750132" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="388.642487" y="45.505002" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="418.463001" y="76.22163" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="392.212756" y="41.454255" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="364.580742" y="39.930299" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="416.626745" y="41.149295" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="325.482091" y="54.286599" style="fill: #2a78d6; fill-opacity: 0.75"/>
+     <use xlink:href="#resid-mea888d5dc4" x="414.023629" y="64.189117" style="fill: #2a78d6; fill-opacity: 0.75"/>
+    </g>
+   </g>
+   <g id="resid-matplotlib.axis_5">
+    <g id="resid-xtick_8">
+     <g id="resid-line2d_20">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="338.179833" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_23">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="338.179833" y="96.451445" transform="rotate(-0 338.179833 96.451445)">6</text>
+     </g>
+    </g>
+    <g id="resid-xtick_9">
+     <g id="resid-line2d_21">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="371.77542" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_24">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="371.77542" y="96.451445" transform="rotate(-0 371.77542 96.451445)">12</text>
+     </g>
+    </g>
+    <g id="resid-xtick_10">
+     <g id="resid-line2d_22">
+      <g>
+       <use xlink:href="#resid-m8317c1aed1" x="405.371007" y="88.440945" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_25">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="405.371007" y="96.451445" transform="rotate(-0 405.371007 96.451445)">18</text>
+     </g>
+    </g>
+    <g id="resid-text_26">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="365.581203" y="106.995601" transform="rotate(-0 365.581203 106.995601)">прогноз ŷ</text>
+    </g>
+   </g>
+   <g id="resid-matplotlib.axis_6">
+    <g id="resid-ytick_11">
+     <g id="resid-line2d_23">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="307.411225" y="86.692653" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_27">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="303.911225" y="88.947903" transform="rotate(-0 303.911225 88.947903)">−8</text>
+     </g>
+    </g>
+    <g id="resid-ytick_12">
+     <g id="resid-line2d_24">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="307.411225" y="69.708531" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_28">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="303.911225" y="71.963781" transform="rotate(-0 303.911225 71.963781)">−4</text>
+     </g>
+    </g>
+    <g id="resid-ytick_13">
+     <g id="resid-line2d_25">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="307.411225" y="52.724409" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_29">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="303.911225" y="54.979659" transform="rotate(-0 303.911225 54.979659)">0</text>
+     </g>
+    </g>
+    <g id="resid-ytick_14">
+     <g id="resid-line2d_26">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="307.411225" y="35.740288" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_30">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="303.911225" y="37.995538" transform="rotate(-0 303.911225 37.995538)">4</text>
+     </g>
+    </g>
+    <g id="resid-ytick_15">
+     <g id="resid-line2d_27">
+      <g>
+       <use xlink:href="#resid-m814daea6f0" x="307.411225" y="18.756166" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="resid-text_31">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="303.911225" y="21.011416" transform="rotate(-0 303.911225 21.011416)">8</text>
+     </g>
+    </g>
+   </g>
+   <g id="resid-line2d_28">
+    <path d="M 307.411225 52.724409 
+L 423.751181 52.724409 
+" clip-path="url(#resid-p686bac8400)" style="fill: none; stroke: #323c4a; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="resid-patch_9">
+    <path d="M 307.411225 88.440945 
+L 307.411225 17.007874 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="resid-patch_10">
+    <path d="M 307.411225 88.440945 
+L 423.751181 88.440945 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="resid-text_32">
+    <text style="font-weight: 600; font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="307.411225" y="15.007874" transform="rotate(-0 307.411225 15.007874)">гетероскедастичность</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="resid-p24cbfc6806">
+   <rect x="23.541732" y="17.007874" width="116.339956" height="71.433071"/>
+  </clipPath>
+  <clipPath id="resid-pa06b03f587">
+   <rect x="165.476479" y="17.007874" width="116.339956" height="71.433071"/>
+  </clipPath>
+  <clipPath id="resid-p686bac8400">
+   <rect x="307.411225" y="17.007874" width="116.339956" height="71.433071"/>
+  </clipPath>
+ </defs>
+</svg>

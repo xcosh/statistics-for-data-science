@@ -1,0 +1,558 @@
+<svg class="chart" role="img" aria-labelledby="ci-cap" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 283.464567 170.07874" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="ci-figure_1">
+  <g id="ci-patch_1">
+   <path d="M 0 170.07874 
+L 283.464567 170.07874 
+L 283.464567 0 
+L 0 0 
+L 0 170.07874 
+z
+" style="fill: none"/>
+  </g>
+  <g id="ci-axes_1">
+   <g id="ci-patch_2">
+    <path d="M 8.503937 146.267717 
+L 274.96063 146.267717 
+L 274.96063 8.503937 
+L 8.503937 8.503937 
+L 8.503937 146.267717 
+z
+" style="fill: none"/>
+   </g>
+   <g id="ci-matplotlib.axis_1">
+    <g id="ci-xtick_1">
+     <g id="ci-line2d_1">
+      <defs>
+       <path id="ci-m8317c1aed1" d="M 0 0 
+L 0 2 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#ci-m8317c1aed1" x="24.17786" y="146.267717" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="ci-text_1">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="24.17786" y="154.278217" transform="rotate(-0 24.17786 154.278217)">35</text>
+     </g>
+    </g>
+    <g id="ci-xtick_2">
+     <g id="ci-line2d_2">
+      <g>
+       <use xlink:href="#ci-m8317c1aed1" x="63.362668" y="146.267717" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="ci-text_2">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="63.362668" y="154.278217" transform="rotate(-0 63.362668 154.278217)">40</text>
+     </g>
+    </g>
+    <g id="ci-xtick_3">
+     <g id="ci-line2d_3">
+      <g>
+       <use xlink:href="#ci-m8317c1aed1" x="102.547476" y="146.267717" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="ci-text_3">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="102.547476" y="154.278217" transform="rotate(-0 102.547476 154.278217)">45</text>
+     </g>
+    </g>
+    <g id="ci-xtick_4">
+     <g id="ci-line2d_4">
+      <g>
+       <use xlink:href="#ci-m8317c1aed1" x="141.732283" y="146.267717" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="ci-text_4">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="141.732283" y="154.278217" transform="rotate(-0 141.732283 154.278217)">50</text>
+     </g>
+    </g>
+    <g id="ci-xtick_5">
+     <g id="ci-line2d_5">
+      <g>
+       <use xlink:href="#ci-m8317c1aed1" x="180.917091" y="146.267717" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="ci-text_5">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="180.917091" y="154.278217" transform="rotate(-0 180.917091 154.278217)">55</text>
+     </g>
+    </g>
+    <g id="ci-xtick_6">
+     <g id="ci-line2d_6">
+      <g>
+       <use xlink:href="#ci-m8317c1aed1" x="220.101899" y="146.267717" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="ci-text_6">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="220.101899" y="154.278217" transform="rotate(-0 220.101899 154.278217)">60</text>
+     </g>
+    </g>
+    <g id="ci-xtick_7">
+     <g id="ci-line2d_7">
+      <g>
+       <use xlink:href="#ci-m8317c1aed1" x="259.286707" y="146.267717" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="ci-text_7">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="259.286707" y="154.278217" transform="rotate(-0 259.286707 154.278217)">65</text>
+     </g>
+    </g>
+    <g id="ci-text_8">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="141.732283" y="164.63881" transform="rotate(-0 141.732283 164.63881)">95%-е интервалы по 40 выборкам (n = 20): 38 из 40 накрыли μ</text>
+    </g>
+   </g>
+   <g id="ci-matplotlib.axis_2"/>
+   <g id="ci-line2d_8">
+    <path d="M 137.512406 19.296491 
+L 218.63482 19.296491 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_9">
+    <path d="M 103.732766 22.470772 
+L 163.685412 22.470772 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_10">
+    <path d="M 108.398939 25.645052 
+L 179.618931 25.645052 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_11">
+    <path d="M 103.495237 28.819333 
+L 168.310398 28.819333 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_12">
+    <path d="M 93.990891 31.993614 
+L 161.246686 31.993614 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_13">
+    <path d="M 62.866626 35.167894 
+L 154.413524 35.167894 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_14">
+    <path d="M 127.258419 38.342175 
+L 193.711622 38.342175 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_15">
+    <path d="M 103.512409 41.516456 
+L 182.575444 41.516456 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_16">
+    <path d="M 121.053785 44.690736 
+L 194.734818 44.690736 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_17">
+    <path d="M 155.067882 47.865017 
+L 218.60436 47.865017 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #eb6834; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_18">
+    <path d="M 110.886762 51.039298 
+L 194.189957 51.039298 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_19">
+    <path d="M 81.896913 54.213578 
+L 145.521303 54.213578 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_20">
+    <path d="M 108.022787 57.387859 
+L 184.052171 57.387859 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_21">
+    <path d="M 105.188462 60.562139 
+L 170.485519 60.562139 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_22">
+    <path d="M 95.959189 63.73642 
+L 170.695019 63.73642 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_23">
+    <path d="M 107.224134 66.910701 
+L 186.532806 66.910701 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_24">
+    <path d="M 66.62253 70.084981 
+L 155.706069 70.084981 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_25">
+    <path d="M 108.931015 73.259262 
+L 169.436518 73.259262 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_26">
+    <path d="M 103.634621 76.433543 
+L 179.435069 76.433543 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_27">
+    <path d="M 103.948255 79.607823 
+L 193.630736 79.607823 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_28">
+    <path d="M 98.924128 82.782104 
+L 177.755627 82.782104 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_29">
+    <path d="M 110.85707 85.956384 
+L 162.400279 85.956384 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_30">
+    <path d="M 99.947803 89.130665 
+L 182.609194 89.130665 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_31">
+    <path d="M 126.571809 92.304946 
+L 195.710128 92.304946 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_32">
+    <path d="M 76.81459 95.479226 
+L 170.236251 95.479226 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_33">
+    <path d="M 95.986797 98.653507 
+L 146.107534 98.653507 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_34">
+    <path d="M 74.43593 101.827788 
+L 173.454348 101.827788 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_35">
+    <path d="M 149.531347 105.002068 
+L 185.963774 105.002068 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #eb6834; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_36">
+    <path d="M 99.034176 108.176349 
+L 178.728742 108.176349 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_37">
+    <path d="M 98.310727 111.35063 
+L 151.506206 111.35063 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_38">
+    <path d="M 112.85219 114.52491 
+L 164.831757 114.52491 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_39">
+    <path d="M 91.771102 117.699191 
+L 167.822141 117.699191 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_40">
+    <path d="M 113.230443 120.873471 
+L 178.205113 120.873471 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_41">
+    <path d="M 110.037931 124.047752 
+L 170.691243 124.047752 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_42">
+    <path d="M 113.765678 127.222033 
+L 176.87276 127.222033 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_43">
+    <path d="M 100.524998 130.396313 
+L 180.776656 130.396313 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_44">
+    <path d="M 108.623644 133.570594 
+L 172.26884 133.570594 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_45">
+    <path d="M 106.642674 136.744875 
+L 174.623193 136.744875 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_46">
+    <path d="M 133.164681 139.919155 
+L 214.595492 139.919155 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_47">
+    <path d="M 97.1531 143.093436 
+L 175.653593 143.093436 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #2a78d6; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="ci-line2d_48">
+    <path d="M 141.732283 146.267717 
+L 141.732283 8.503937 
+" clip-path="url(#ci-p8b09ef6d4c)" style="fill: none; stroke: #323c4a; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="ci-patch_3">
+    <path d="M 8.503937 146.267717 
+L 274.96063 146.267717 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="ci-PathCollection_1">
+    <defs>
+     <path id="ci-m9a54e87e2d" d="M 0 1.118034 
+C 0.296506 1.118034 0.580908 1.000231 0.790569 0.790569 
+C 1.000231 0.580908 1.118034 0.296506 1.118034 0 
+C 1.118034 -0.296506 1.000231 -0.580908 0.790569 -0.790569 
+C 0.580908 -1.000231 0.296506 -1.118034 0 -1.118034 
+C -0.296506 -1.118034 -0.580908 -1.000231 -0.790569 -0.790569 
+C -1.000231 -0.580908 -1.118034 -0.296506 -1.118034 0 
+C -1.118034 0.296506 -1.000231 0.580908 -0.790569 0.790569 
+C -0.580908 1.000231 -0.296506 1.118034 0 1.118034 
+z
+"/>
+    </defs>
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="178.073613" y="19.296491" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_2">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="133.709089" y="22.470772" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_3">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="144.008935" y="25.645052" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_4">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="135.902817" y="28.819333" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_5">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="127.618789" y="31.993614" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_6">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="108.640075" y="35.167894" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_7">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="160.48502" y="38.342175" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_8">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="143.043927" y="41.516456" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_9">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="157.894302" y="44.690736" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_10">
+    <defs>
+     <path id="ci-m97a27ff7ba" d="M 0 1.118034 
+C 0.296506 1.118034 0.580908 1.000231 0.790569 0.790569 
+C 1.000231 0.580908 1.118034 0.296506 1.118034 0 
+C 1.118034 -0.296506 1.000231 -0.580908 0.790569 -0.790569 
+C 0.580908 -1.000231 0.296506 -1.118034 0 -1.118034 
+C -0.296506 -1.118034 -0.580908 -1.000231 -0.790569 -0.790569 
+C -1.000231 -0.580908 -1.118034 -0.296506 -1.118034 0 
+C -1.118034 0.296506 -1.000231 0.580908 -0.790569 0.790569 
+C -0.580908 1.000231 -0.296506 1.118034 0 1.118034 
+z
+"/>
+    </defs>
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m97a27ff7ba" x="186.836121" y="47.865017" style="fill: #eb6834"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_11">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="152.538359" y="51.039298" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_12">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="113.709108" y="54.213578" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_13">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="146.037479" y="57.387859" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_14">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="137.83699" y="60.562139" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_15">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="133.327104" y="63.73642" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_16">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="146.87847" y="66.910701" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_17">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="111.164299" y="70.084981" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_18">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="139.183766" y="73.259262" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_19">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="141.534845" y="76.433543" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_20">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="148.789496" y="79.607823" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_21">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="138.339878" y="82.782104" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_22">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="136.628674" y="85.956384" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_23">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="141.278499" y="89.130665" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_24">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="161.140968" y="92.304946" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_25">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="123.52542" y="95.479226" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_26">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="121.047165" y="98.653507" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_27">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="123.945139" y="101.827788" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_28">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m97a27ff7ba" x="167.74756" y="105.002068" style="fill: #eb6834"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_29">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="138.881459" y="108.176349" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_30">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="124.908466" y="111.35063" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_31">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="138.841974" y="114.52491" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_32">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="129.796621" y="117.699191" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_33">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="145.717778" y="120.873471" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_34">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="140.364587" y="124.047752" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_35">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="145.319219" y="127.222033" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_36">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="140.650827" y="130.396313" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_37">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="140.446242" y="133.570594" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_38">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="140.632933" y="136.744875" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_39">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="173.880086" y="139.919155" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-PathCollection_40">
+    <g clip-path="url(#ci-p8b09ef6d4c)">
+     <use xlink:href="#ci-m9a54e87e2d" x="136.403347" y="143.093436" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="ci-text_9">
+    <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #323c4a" x="144.867068" y="13.904739" transform="rotate(-0 144.867068 13.904739)">истинное μ = 50</text>
+   </g>
+   <g id="ci-text_10">
+    <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #323c4a" x="223.306537" y="49.461501" transform="rotate(-0 223.306537 49.461501)">не накрыл μ</text>
+   </g>
+   <g id="ci-text_11">
+    <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #323c4a" x="190.665951" y="106.598553" transform="rotate(-0 190.665951 106.598553)">не накрыл μ</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="ci-p8b09ef6d4c">
+   <rect x="8.503937" y="8.503937" width="266.456693" height="137.76378"/>
+  </clipPath>
+ </defs>
+</svg>

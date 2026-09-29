@@ -1,0 +1,163 @@
+<svg class="chart" role="img" aria-labelledby="bv-cap" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 283.464567 119.055118" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="bv-figure_1">
+  <g id="bv-patch_1">
+   <path d="M 0 119.055118 
+L 283.464567 119.055118 
+L 283.464567 0 
+L 0 0 
+L 0 119.055118 
+z
+" style="fill: none"/>
+  </g>
+  <g id="bv-axes_1">
+   <g id="bv-patch_2">
+    <path d="M 8.503937 98.815748 
+L 274.96063 98.815748 
+L 274.96063 23.811024 
+L 8.503937 23.811024 
+L 8.503937 98.815748 
+z
+" style="fill: none"/>
+   </g>
+   <g id="bv-matplotlib.axis_1">
+    <g id="bv-text_1">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="141.732283" y="107.617248" transform="rotate(-0 141.732283 107.617248)">сложность модели (схема)</text>
+    </g>
+   </g>
+   <g id="bv-matplotlib.axis_2"/>
+   <g id="bv-line2d_1">
+    <path d="M 8.503937 34.685834 
+L 10.286256 37.883527 
+L 12.068575 40.743242 
+L 14.742054 44.509393 
+L 17.415532 47.763694 
+L 20.089011 50.60581 
+L 22.762489 53.111104 
+L 25.435968 55.337626 
+L 28.109446 57.330809 
+L 31.674084 59.686705 
+L 35.238722 61.757809 
+L 38.80336 63.59496 
+L 43.259158 65.621623 
+L 47.714955 67.402878 
+L 53.061912 69.278724 
+L 58.408869 70.92351 
+L 64.646986 72.60806 
+L 71.776262 74.286475 
+L 79.796698 75.926739 
+L 88.708293 77.508809 
+L 98.511047 79.022093 
+L 110.096121 80.574736 
+L 123.463514 82.125153 
+L 138.613225 83.648426 
+L 156.436415 85.20542 
+L 176.933084 86.7666 
+L 200.994391 88.374142 
+L 230.402655 90.105814 
+L 265.157875 91.92364 
+L 274.96063 92.402757 
+L 274.96063 92.402757 
+" clip-path="url(#bv-p030b5e0f68)" style="fill: none; stroke: #2a78d6; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="bv-line2d_2">
+    <path d="M 8.503937 27.426636 
+L 10.286256 30.892531 
+L 12.068575 33.981222 
+L 13.850894 36.750157 
+L 16.524373 40.402894 
+L 19.197851 43.560451 
+L 21.87133 46.314543 
+L 24.544808 48.7354 
+L 27.218287 50.877709 
+L 29.891765 52.784688 
+L 33.456403 55.020095 
+L 37.021041 56.962471 
+L 40.585679 58.661453 
+L 45.041477 60.50121 
+L 49.497274 62.079354 
+L 53.953072 63.440617 
+L 59.300029 64.836171 
+L 64.646986 66.015336 
+L 70.885103 67.164374 
+L 78.014379 68.230371 
+L 85.143655 69.078402 
+L 93.16409 69.816461 
+L 102.075685 70.41295 
+L 111.87844 70.842204 
+L 122.572354 71.083072 
+L 134.157428 71.117522 
+L 146.633661 70.929401 
+L 160.001053 70.503426 
+L 174.259606 69.824405 
+L 189.409317 68.87665 
+L 205.450188 67.643573 
+L 222.382219 66.107395 
+L 239.31425 64.347522 
+L 257.13744 62.267954 
+L 274.96063 59.967147 
+L 274.96063 59.967147 
+" clip-path="url(#bv-p030b5e0f68)" style="fill: none; stroke: #eb6834; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="bv-patch_3">
+    <path d="M 8.503937 98.815748 
+L 274.96063 98.815748 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="bv-PathCollection_1">
+    <defs>
+     <path id="bv-m462de7ab52" d="M 0 2 
+C 0.530406 2 1.03916 1.789267 1.414214 1.414214 
+C 1.789267 1.03916 2 0.530406 2 0 
+C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214 
+C 1.03916 -1.789267 0.530406 -2 0 -2 
+C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214 
+C -1.789267 -1.03916 -2 -0.530406 -2 0 
+C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214 
+C -1.03916 1.789267 -0.530406 2 0 2 
+z
+" style="stroke: #ffffff; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#bv-p030b5e0f68)">
+     <use xlink:href="#bv-m462de7ab52" x="130.59279" y="71.129844" style="fill: #eb6834; stroke: #ffffff; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="bv-text_2">
+    <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="130.59279" y="66.129529" transform="rotate(-0 130.59279 66.129529)">оптимальная сложность</text>
+   </g>
+   <g id="bv-text_3">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="12.944882" y="96.50791" transform="rotate(-0 12.944882 96.50791)">← недообучение: высокое смещение</text>
+   </g>
+   <g id="bv-text_4">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="273.480315" y="56.505391" transform="rotate(-0 273.480315 56.505391)">переобучение: высокая дисперсия →</text>
+   </g>
+   <g id="bv-legend_1">
+    <g id="bv-line2d_3">
+     <path d="M 10.943937 16.46732 
+L 15.518937 16.46732 
+L 20.093937 16.46732 
+" style="fill: none; stroke: #2a78d6; stroke-width: 1.4; stroke-linecap: round"/>
+    </g>
+    <g id="bv-text_5">
+     <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="23.143937" y="18.60232" transform="rotate(-0 23.143937 18.60232)">ошибка на обучающей выборке</text>
+    </g>
+    <g id="bv-line2d_4">
+     <path d="M 127.36339 16.46732 
+L 131.93839 16.46732 
+L 136.51339 16.46732 
+" style="fill: none; stroke: #eb6834; stroke-width: 1.4; stroke-linecap: round"/>
+    </g>
+    <g id="bv-text_6">
+     <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="139.56339" y="18.60232" transform="rotate(-0 139.56339 18.60232)">ошибка на новых данных</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="bv-p030b5e0f68">
+   <rect x="8.503937" y="23.811024" width="266.456693" height="75.004724"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "statistics-terms",
+  "private": true,
+  "description": "KaTeX and fonts for building the terms reference PDF/HTML",
+  "dependencies": {
+    "@fontsource/inter": "5.3.0",
+    "@fontsource/jetbrains-mono": "5.3.0",
+    "@fontsource/pt-serif": "5.3.0",
+    "katex": "0.16.47"
+  }
+}

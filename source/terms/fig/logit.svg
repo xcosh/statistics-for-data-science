@@ -1,0 +1,318 @@
+<svg class="chart" role="img" aria-labelledby="logit-cap" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 283.464567 119.055118" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="logit-figure_1">
+  <g id="logit-patch_1">
+   <path d="M 0 119.055118 
+L 283.464567 119.055118 
+L 283.464567 0 
+L 0 0 
+L 0 119.055118 
+z
+" style="fill: none"/>
+  </g>
+  <g id="logit-axes_1">
+   <g id="logit-patch_2">
+    <path d="M 28.346457 95.244094 
+L 274.96063 95.244094 
+L 274.96063 4.762205 
+L 28.346457 4.762205 
+L 28.346457 95.244094 
+z
+" style="fill: none"/>
+   </g>
+   <g id="logit-line2d_1">
+    <path d="M 28.346457 50.00315 
+L 274.96063 50.00315 
+" clip-path="url(#logit-p790f52ef4a)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="logit-PathCollection_1">
+    <defs>
+     <path id="logit-m918d47169e" d="M 0 1.322876 
+C 0.350831 1.322876 0.68734 1.183489 0.935414 0.935414 
+C 1.183489 0.68734 1.322876 0.350831 1.322876 0 
+C 1.322876 -0.350831 1.183489 -0.68734 0.935414 -0.935414 
+C 0.68734 -1.183489 0.350831 -1.322876 0 -1.322876 
+C -0.350831 -1.322876 -0.68734 -1.183489 -0.935414 -0.935414 
+C -1.183489 -0.68734 -1.322876 -0.350831 -1.322876 0 
+C -1.322876 0.350831 -1.183489 0.68734 -0.935414 0.935414 
+C -0.68734 1.183489 -0.350831 1.322876 0 1.322876 
+z
+"/>
+    </defs>
+    <g clip-path="url(#logit-p790f52ef4a)">
+     <use xlink:href="#logit-m918d47169e" x="108.982454" y="88.895716" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="271.822919" y="12.336791" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="106.945067" y="90.809693" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="222.813801" y="11.366227" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="242.875266" y="9.344079" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="124.793513" y="86.576185" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="136.334333" y="88.948316" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="120.271619" y="88.960464" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="54.722729" y="86.934644" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="146.466126" y="10.559001" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="87.867316" y="87.1921" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="91.76212" y="89.019082" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="73.903877" y="86.434286" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="76.156202" y="87.878208" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="229.047895" y="11.251516" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="132.660353" y="90.849731" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="91.46008" y="86.7418" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="174.071475" y="91.408825" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="177.368569" y="13.419498" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="187.870814" y="13.638629" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="253.099857" y="9.154516" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="65.389413" y="87.804205" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="119.935786" y="13.409685" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="98.53794" y="91.416135" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="32.485149" y="90.824817" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="73.120231" y="87.953927" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="125.677323" y="89.804947" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="125.342452" y="87.30933" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="180.440309" y="8.485328" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="139.881793" y="10.174061" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="178.122807" y="11.15007" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="83.356211" y="86.978586" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="61.389582" y="90.241095" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="109.553884" y="87.801386" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="52.048159" y="13.52185" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="118.567765" y="12.293142" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="141.833196" y="88.218813" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="205.659247" y="9.648109" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="242.167078" y="11.3448" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="41.129863" y="89.186967" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="264.133259" y="9.64945" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="205.933674" y="9.715332" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="272.19204" y="9.71109" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="57.638575" y="86.808179" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="120.832137" y="91.296619" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="152.209415" y="12.134509" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="212.622353" y="9.685021" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="105.051097" y="86.851353" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="139.299228" y="87.109111" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="96.451267" y="89.283839" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="139.116952" y="87.373297" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="154.113275" y="10.522458" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="167.690355" y="91.153751" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="202.009868" y="9.123361" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="87.982693" y="89.490354" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="183.834346" y="13.655938" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="50.577782" y="90.605046" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="179.038066" y="90.511167" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="141.551634" y="91.399318" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="61.603419" y="86.485921" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="91.651022" y="89.395156" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="44.345112" y="88.686003" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="120.16633" y="88.481548" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="127.924249" y="86.582113" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="148.887124" y="10.752269" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="45.574281" y="89.866705" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="204.844021" y="89.348708" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="107.000005" y="90.048124" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="97.843224" y="87.60602" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="248.169803" y="8.977947" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="176.589278" y="12.756464" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="190.784641" y="13.569822" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="159.402763" y="87.000333" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="81.663717" y="88.195583" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="65.55173" y="86.637809" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="73.759613" y="89.903289" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="112.364039" y="90.648478" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="70.285372" y="86.823987" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="146.174577" y="91.392888" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="266.913288" y="9.454789" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="210.73617" y="9.388136" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="105.029307" y="87.140315" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="103.923015" y="11.215113" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="221.226777" y="12.502673" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="268.669004" y="13.568715" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="179.883124" y="11.167647" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="91.639306" y="86.287137" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="139.176102" y="89.853788" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="67.235539" y="88.815161" style="fill: #2a78d6; fill-opacity: 0.6"/>
+     <use xlink:href="#logit-m918d47169e" x="135.428031" y="12.937128" style="fill: #2a78d6; fill-opacity: 0.6"/>
+    </g>
+   </g>
+   <g id="logit-matplotlib.axis_1">
+    <g id="logit-xtick_1">
+     <g id="logit-line2d_2">
+      <defs>
+       <path id="logit-m8317c1aed1" d="M 0 0 
+L 0 2 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#logit-m8317c1aed1" x="28.346457" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_1">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="28.346457" y="103.254594" transform="rotate(-0 28.346457 103.254594)">−4</text>
+     </g>
+    </g>
+    <g id="logit-xtick_2">
+     <g id="logit-line2d_3">
+      <g>
+       <use xlink:href="#logit-m8317c1aed1" x="77.669291" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_2">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="77.669291" y="103.254594" transform="rotate(-0 77.669291 103.254594)">−2</text>
+     </g>
+    </g>
+    <g id="logit-xtick_3">
+     <g id="logit-line2d_4">
+      <g>
+       <use xlink:href="#logit-m8317c1aed1" x="126.992126" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_3">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="126.992126" y="103.254594" transform="rotate(-0 126.992126 103.254594)">0</text>
+     </g>
+    </g>
+    <g id="logit-xtick_4">
+     <g id="logit-line2d_5">
+      <g>
+       <use xlink:href="#logit-m8317c1aed1" x="176.314961" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_4">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="176.314961" y="103.254594" transform="rotate(-0 176.314961 103.254594)">2</text>
+     </g>
+    </g>
+    <g id="logit-xtick_5">
+     <g id="logit-line2d_6">
+      <g>
+       <use xlink:href="#logit-m8317c1aed1" x="225.637795" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_5">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="225.637795" y="103.254594" transform="rotate(-0 225.637795 103.254594)">4</text>
+     </g>
+    </g>
+    <g id="logit-xtick_6">
+     <g id="logit-line2d_7">
+      <g>
+       <use xlink:href="#logit-m8317c1aed1" x="274.96063" y="95.244094" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_6">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="274.96063" y="103.254594" transform="rotate(-0 274.96063 103.254594)">6</text>
+     </g>
+    </g>
+    <g id="logit-text_7">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="151.653543" y="113.321282" transform="rotate(-0 151.653543 113.321282)">признак x</text>
+    </g>
+   </g>
+   <g id="logit-matplotlib.axis_2">
+    <g id="logit-ytick_1">
+     <g id="logit-line2d_8">
+      <defs>
+       <path id="logit-m814daea6f0" d="M 0 0 
+L -2 0 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#logit-m814daea6f0" x="28.346457" y="89.003964" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_8">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="91.259214" transform="rotate(-0 24.846457 91.259214)">0</text>
+     </g>
+    </g>
+    <g id="logit-ytick_2">
+     <g id="logit-line2d_9">
+      <g>
+       <use xlink:href="#logit-m814daea6f0" x="28.346457" y="50.00315" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_9">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="52.2584" transform="rotate(-0 24.846457 52.2584)">0,5</text>
+     </g>
+    </g>
+    <g id="logit-ytick_3">
+     <g id="logit-line2d_10">
+      <g>
+       <use xlink:href="#logit-m814daea6f0" x="28.346457" y="11.002335" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="logit-text_10">
+      <text style="font-size: 6.2px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #5d6775" x="24.846457" y="13.257585" transform="rotate(-0 24.846457 13.257585)">1</text>
+     </g>
+    </g>
+    <g id="logit-text_11">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="10.097332" y="50.00315" transform="rotate(-90 10.097332 50.00315)">y (0 или 1)</text>
+    </g>
+   </g>
+   <g id="logit-line2d_11">
+    <path d="M 28.346457 88.549357 
+L 44.017591 88.14928 
+L 55.564743 87.64677 
+L 65.462302 86.992568 
+L 73.710268 86.220754 
+L 81.133437 85.288089 
+L 87.731809 84.216182 
+L 93.505385 83.047566 
+L 98.454165 81.843317 
+L 103.402944 80.42459 
+L 108.351724 78.765399 
+L 113.300503 76.841548 
+L 117.424486 75.021434 
+L 121.548469 72.995168 
+L 125.672451 70.758951 
+L 130.621231 67.801395 
+L 135.57001 64.560521 
+L 140.51879 61.067916 
+L 147.117162 56.103631 
+L 157.839518 47.664898 
+L 166.087483 41.279758 
+L 171.861059 37.065691 
+L 176.809839 33.701065 
+L 181.758618 30.606842 
+L 186.707397 27.806251 
+L 190.83138 25.70321 
+L 194.955363 23.808293 
+L 199.904142 21.79934 
+L 204.852922 20.061751 
+L 209.801701 18.572298 
+L 214.750481 17.305337 
+L 220.524057 16.073505 
+L 226.297633 15.068763 
+L 232.896005 14.151409 
+L 240.319174 13.3565 
+L 248.56714 12.700978 
+L 258.464699 12.146966 
+L 270.836647 11.698909 
+L 274.96063 11.592298 
+L 274.96063 11.592298 
+" clip-path="url(#logit-p790f52ef4a)" style="fill: none; stroke: #eb6834; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="logit-line2d_12">
+    <path d="M 154.883611 53.123215 
+L 154.883611 46.883084 
+" clip-path="url(#logit-p790f52ef4a)" style="fill: none; stroke: #323c4a; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="logit-patch_3">
+    <path d="M 28.346457 95.244094 
+L 28.346457 4.762205 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="logit-patch_4">
+    <path d="M 28.346457 95.244094 
+L 274.96063 95.244094 
+" style="fill: none; stroke: #b3bcc6; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="logit-text_12">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #323c4a" x="159.815895" y="59.10731" transform="rotate(-0 159.815895 59.10731)">P = 0,5 при x = 1,1</text>
+   </g>
+   <g id="logit-text_13">
+    <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #323c4a" x="186.179528" y="70.942416" transform="rotate(-0 186.179528 70.942416)">кривая: P(y = 1 | x) = σ(β₀ + β₁x)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="logit-p790f52ef4a">
+   <rect x="28.346457" y="4.762205" width="246.614173" height="90.48189"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,555 @@
+<svg class="chart" role="img" aria-labelledby="heatmap-cap" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 428.031496 181.417323" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="heatmap-figure_1">
+  <g id="heatmap-patch_1">
+   <path d="M 0 181.417323 
+L 428.031496 181.417323 
+L 428.031496 0 
+L 0 0 
+L 0 181.417323 
+z
+" style="fill: none"/>
+  </g>
+  <g id="heatmap-axes_1">
+   <g id="heatmap-patch_2">
+    <path d="M 36.382677 145.133858 
+L 173.935332 145.133858 
+L 173.935332 18.141732 
+L 36.382677 18.141732 
+L 36.382677 145.133858 
+z
+" style="fill: none"/>
+   </g>
+   <g id="heatmap-patch_3">
+    <path d="M 36.382677 43.540157 
+L 63.893208 43.540157 
+L 63.893208 18.141732 
+L 36.382677 18.141732 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #b84040; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_4">
+    <path d="M 36.382677 68.938583 
+L 63.893208 68.938583 
+L 63.893208 43.540157 
+L 36.382677 43.540157 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #c84d4d; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_5">
+    <path d="M 63.893208 68.938583 
+L 91.403739 68.938583 
+L 91.403739 43.540157 
+L 63.893208 43.540157 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #d95c5c; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_6">
+    <path d="M 36.382677 94.337008 
+L 63.893208 94.337008 
+L 63.893208 68.938583 
+L 36.382677 68.938583 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #efe1de; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_7">
+    <path d="M 63.893208 94.337008 
+L 91.403739 94.337008 
+L 91.403739 68.938583 
+L 63.893208 68.938583 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #eed9d6; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_8">
+    <path d="M 91.403739 94.337008 
+L 118.91427 94.337008 
+L 118.91427 68.938583 
+L 91.403739 68.938583 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #7fb0e8; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_9">
+    <path d="M 36.382677 119.735433 
+L 63.893208 119.735433 
+L 63.893208 94.337008 
+L 36.382677 94.337008 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #efddda; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_10">
+    <path d="M 63.893208 119.735433 
+L 91.403739 119.735433 
+L 91.403739 94.337008 
+L 63.893208 94.337008 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #efe3e1; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_11">
+    <path d="M 91.403739 119.735433 
+L 118.91427 119.735433 
+L 118.91427 94.337008 
+L 91.403739 94.337008 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #c8d8eb; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_12">
+    <path d="M 118.91427 119.735433 
+L 146.424801 119.735433 
+L 146.424801 94.337008 
+L 118.91427 94.337008 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #ecedec; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_13">
+    <path d="M 36.382677 145.133858 
+L 63.893208 145.133858 
+L 63.893208 119.735433 
+L 36.382677 119.735433 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #f0ece9; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_14">
+    <path d="M 63.893208 145.133858 
+L 91.403739 145.133858 
+L 91.403739 119.735433 
+L 63.893208 119.735433 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #f0eeeb; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_15">
+    <path d="M 91.403739 145.133858 
+L 118.91427 145.133858 
+L 118.91427 119.735433 
+L 91.403739 119.735433 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #dbe3eb; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_16">
+    <path d="M 118.91427 145.133858 
+L 146.424801 145.133858 
+L 146.424801 119.735433 
+L 118.91427 119.735433 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #f0eae7; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-patch_17">
+    <path d="M 146.424801 145.133858 
+L 173.935332 145.133858 
+L 173.935332 119.735433 
+L 146.424801 119.735433 
+z
+" clip-path="url(#heatmap-pfa2cc03e57)" style="fill: #eed9d6; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="heatmap-matplotlib.axis_1">
+    <g id="heatmap-xtick_1">
+     <g id="heatmap-line2d_1"/>
+     <g id="heatmap-text_1">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(29.089678 167.023574) rotate(-40)">площадь</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_2">
+     <g id="heatmap-line2d_2"/>
+     <g id="heatmap-text_2">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(56.923659 166.752167) rotate(-40)">комнаты</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_3">
+     <g id="heatmap-line2d_3"/>
+     <g id="heatmap-text_3">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(93.470355 159.169925) rotate(-40)">цена</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_4">
+     <g id="heatmap-line2d_4"/>
+     <g id="heatmap-text_4">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(108.960655 169.256096) rotate(-40)">до центра</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_5">
+     <g id="heatmap-line2d_5"/>
+     <g id="heatmap-text_5">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; fill: #323c4a" transform="translate(141.296655 165.207046) rotate(-40)">возраст</text>
+     </g>
+    </g>
+   </g>
+   <g id="heatmap-matplotlib.axis_2">
+    <g id="heatmap-ytick_1">
+     <g id="heatmap-line2d_6"/>
+     <g id="heatmap-text_6">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="34.882677" y="134.653521" transform="rotate(-0 34.882677 134.653521)">этаж</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_2">
+     <g id="heatmap-line2d_7"/>
+     <g id="heatmap-text_7">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="34.882677" y="109.255095" transform="rotate(-0 34.882677 109.255095)">возраст</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_3">
+     <g id="heatmap-line2d_8"/>
+     <g id="heatmap-text_8">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="34.882677" y="83.85667" transform="rotate(-0 34.882677 83.85667)">до центра</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_4">
+     <g id="heatmap-line2d_9"/>
+     <g id="heatmap-text_9">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="34.882677" y="58.458245" transform="rotate(-0 34.882677 58.458245)">цена</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_5">
+     <g id="heatmap-line2d_10"/>
+     <g id="heatmap-text_10">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="34.882677" y="33.05982" transform="rotate(-0 34.882677 33.05982)">комнаты</text>
+     </g>
+    </g>
+   </g>
+   <g id="heatmap-text_11">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="50.137943" y="32.411257" transform="rotate(-0 50.137943 32.411257)">0,81</text>
+   </g>
+   <g id="heatmap-text_12">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="50.137943" y="57.809683" transform="rotate(-0 50.137943 57.809683)">0,71</text>
+   </g>
+   <g id="heatmap-text_13">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="77.648474" y="57.809683" transform="rotate(-0 77.648474 57.809683)">0,59</text>
+   </g>
+   <g id="heatmap-text_14">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="50.137943" y="83.208108" transform="rotate(-0 50.137943 83.208108)">0,05</text>
+   </g>
+   <g id="heatmap-text_15">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="77.648474" y="83.208108" transform="rotate(-0 77.648474 83.208108)">0,08</text>
+   </g>
+   <g id="heatmap-text_16">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="105.159005" y="83.208108" transform="rotate(-0 105.159005 83.208108)">−0,37</text>
+   </g>
+   <g id="heatmap-text_17">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="50.137943" y="108.606533" transform="rotate(-0 50.137943 108.606533)">0,07</text>
+   </g>
+   <g id="heatmap-text_18">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="77.648474" y="108.606533" transform="rotate(-0 77.648474 108.606533)">0,05</text>
+   </g>
+   <g id="heatmap-text_19">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="105.159005" y="108.606533" transform="rotate(-0 105.159005 108.606533)">−0,13</text>
+   </g>
+   <g id="heatmap-text_20">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="132.669535" y="108.606533" transform="rotate(-0 132.669535 108.606533)">−0,01</text>
+   </g>
+   <g id="heatmap-text_21">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="50.137943" y="134.004958" transform="rotate(-0 50.137943 134.004958)">0,01</text>
+   </g>
+   <g id="heatmap-text_22">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="77.648474" y="134.004958" transform="rotate(-0 77.648474 134.004958)">0,00</text>
+   </g>
+   <g id="heatmap-text_23">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="105.159005" y="134.004958" transform="rotate(-0 105.159005 134.004958)">−0,06</text>
+   </g>
+   <g id="heatmap-text_24">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="132.669535" y="134.004958" transform="rotate(-0 132.669535 134.004958)">0,02</text>
+   </g>
+   <g id="heatmap-text_25">
+    <text style="font-size: 6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #1b2330" x="160.180066" y="134.004958" transform="rotate(-0 160.180066 134.004958)">0,08</text>
+   </g>
+   <g id="heatmap-text_26">
+    <text style="font-weight: 600; font-size: 6.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="36.382677" y="14.141732" transform="rotate(-0 36.382677 14.141732)">Корреляции признаков квартир</text>
+   </g>
+  </g>
+  <g id="heatmap-axes_2">
+   <g id="heatmap-patch_18">
+    <path d="M 221.390998 145.133858 
+L 400.209449 145.133858 
+L 400.209449 18.141732 
+L 221.390998 18.141732 
+L 221.390998 145.133858 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#heatmap-p62c55327de)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAXUAAAEJCAYAAABrHbdyAAAFdElEQVR4nO3WQW5bVRiG4ePEJm5aWioixAAJIaYskgUxYSeIMQMQE1ApgjZpEye22QTSL716ng18Ovdevz6bH3+6O68hdw9j0+vls4ux7e9/+H1s+2K7G9u+fTN37re//Ty2vdZau/2Lse3z6Ti2fffnL2Pbm4vLse3rL74d254rGwD/O1EHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAkO3Hx7nx3eVmbPvdx9PY9uk499AfHz6Mbb9/8+vY9ukwd+611jrt9mPbT/e3Y9ubi8ux7ePgOz89zf3G3dQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQrbPdnPjL/dz/yl/vDuObd/cfD62/Xg8j22v83dj0/9cDn7oa639y5ux7ePhfmz73R9j0+vyeBjb/vSLr8e23dQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQkQdIETUAUJEHSBE1AFCRB0gRNQBQrYXm83Y+Nu709j29Sdz5/7q9XZs+7e3j2Pb16+/HNt+/Hg7tr3WWvuXn49tHx8fxrYf7v4d2z6fnsa295/OvW83dYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYAQUQcIEXWAEFEHCBF1gBBRBwgRdYCQ7fUnm7HxV8/mto+nsen11+1xbPvmxeXY9q9v7se2t/vnY9trrXW5uxrbPp3mvrft1fXY9uP9+7HtqxefjW27qQOEiDpAiKgDhIg6QIioA4SIOkCIqAOEiDpAiKgDhIg6QIioA4SIOkCIqAOEiDpAiKgDhIg6QIioA4SIOkCIqAOEiDpAiKgDhIg6QIioA4SIOkCIqAOEiDpAiKgDhIg6QIioA4SIOkCIqAOEiDpAiKgDhIg6QIioA4SIOkDI9sPhPDb++noztv00d+z1zc1ubPvu4TS2fXo6jG0/3P49tr3WWlfPX41tP93fjW2fz8ex7dPj3Pf2dPg4tu2mDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhCy3V3OjX84nMe2393PbU8+84vN3Pb26npse7d/Mba91lrHp8PY9uRzn7TdPx/bPnx4P7btpg4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4QIuoAIaIOECLqACGiDhAi6gAhog4Q8h9H1oY3CHbL1wAAAABJRU5ErkJggg==" id="heatmap-imaged77b8ea18e" transform="scale(1 -1) translate(0 -127.2)" x="221.390998" y="-17.933858" width="179.04" height="127.2"/>
+   </g>
+   <g id="heatmap-matplotlib.axis_3">
+    <g id="heatmap-xtick_6">
+     <g id="heatmap-line2d_11"/>
+     <g id="heatmap-text_27">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="228.841767" y="151.071608" transform="rotate(-0 228.841767 151.071608)">0</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_7">
+     <g id="heatmap-line2d_12"/>
+     <g id="heatmap-text_28">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="243.743304" y="151.071608" transform="rotate(-0 243.743304 151.071608)">2</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_8">
+     <g id="heatmap-line2d_13"/>
+     <g id="heatmap-text_29">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="258.644842" y="151.071608" transform="rotate(-0 258.644842 151.071608)">4</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_9">
+     <g id="heatmap-line2d_14"/>
+     <g id="heatmap-text_30">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="273.546379" y="151.071608" transform="rotate(-0 273.546379 151.071608)">6</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_10">
+     <g id="heatmap-line2d_15"/>
+     <g id="heatmap-text_31">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="288.447917" y="151.071608" transform="rotate(-0 288.447917 151.071608)">8</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_11">
+     <g id="heatmap-line2d_16"/>
+     <g id="heatmap-text_32">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="303.349454" y="151.071608" transform="rotate(-0 303.349454 151.071608)">10</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_12">
+     <g id="heatmap-line2d_17"/>
+     <g id="heatmap-text_33">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="318.250992" y="151.071608" transform="rotate(-0 318.250992 151.071608)">12</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_13">
+     <g id="heatmap-line2d_18"/>
+     <g id="heatmap-text_34">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="333.15253" y="151.071608" transform="rotate(-0 333.15253 151.071608)">14</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_14">
+     <g id="heatmap-line2d_19"/>
+     <g id="heatmap-text_35">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="348.054067" y="151.071608" transform="rotate(-0 348.054067 151.071608)">16</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_15">
+     <g id="heatmap-line2d_20"/>
+     <g id="heatmap-text_36">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="362.955605" y="151.071608" transform="rotate(-0 362.955605 151.071608)">18</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_16">
+     <g id="heatmap-line2d_21"/>
+     <g id="heatmap-text_37">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="377.857142" y="151.071608" transform="rotate(-0 377.857142 151.071608)">20</text>
+     </g>
+    </g>
+    <g id="heatmap-xtick_17">
+     <g id="heatmap-line2d_22"/>
+     <g id="heatmap-text_38">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #323c4a" x="392.75868" y="151.071608" transform="rotate(-0 392.75868 151.071608)">22</text>
+     </g>
+    </g>
+    <g id="heatmap-text_39">
+     <text style="font-size: 6.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: middle; fill: #5d6775" x="310.800223" y="161.092108" transform="rotate(-0 310.800223 161.092108)">начало двухчасового интервала, ч</text>
+    </g>
+   </g>
+   <g id="heatmap-matplotlib.axis_4">
+    <g id="heatmap-ytick_6">
+     <g id="heatmap-line2d_23"/>
+     <g id="heatmap-text_40">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="219.890998" y="29.431473" transform="rotate(-0 219.890998 29.431473)">Пн</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_7">
+     <g id="heatmap-line2d_24"/>
+     <g id="heatmap-text_41">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="219.890998" y="47.573206" transform="rotate(-0 219.890998 47.573206)">Вт</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_8">
+     <g id="heatmap-line2d_25"/>
+     <g id="heatmap-text_42">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="219.890998" y="65.744961" transform="rotate(-0 219.890998 65.744961)">Ср</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_9">
+     <g id="heatmap-line2d_26"/>
+     <g id="heatmap-text_43">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="219.890998" y="83.85667" transform="rotate(-0 219.890998 83.85667)">Чт</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_10">
+     <g id="heatmap-line2d_27"/>
+     <g id="heatmap-text_44">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="219.890998" y="101.998403" transform="rotate(-0 219.890998 101.998403)">Пт</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_11">
+     <g id="heatmap-line2d_28"/>
+     <g id="heatmap-text_45">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="219.890998" y="120.140135" transform="rotate(-0 219.890998 120.140135)">Сб</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_12">
+     <g id="heatmap-line2d_29"/>
+     <g id="heatmap-text_46">
+      <text style="font-size: 6.1px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: end; fill: #323c4a" x="219.890998" y="138.281867" transform="rotate(-0 219.890998 138.281867)">Вс</text>
+     </g>
+    </g>
+   </g>
+   <g id="heatmap-text_47">
+    <text style="font-weight: 600; font-size: 6.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1b2330" x="221.390998" y="14.141732" transform="rotate(-0 221.390998 14.141732)">Конверсия по дням недели и часам, %</text>
+   </g>
+  </g>
+  <g id="heatmap-axes_3">
+   <g id="heatmap-patch_19">
+    <path d="M 150.551381 91.797165 
+L 155.687759 91.797165 
+L 155.687759 20.681575 
+L 150.551381 20.681575 
+L 150.551381 91.797165 
+z
+" style="fill: none"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAoAAACUCAYAAACqXriOAAAA/ElEQVR4nO2Y0Q0DMQhDCZABOlNH69h3SbrCO8kRStV8W9jYwEfa6/1ZBl56BMFZttYY0CMZMCi1O9XoDisWUtOK3B4eYZk9eo1H2MN9hDvTHG5h8GQgdeGleLCF1B45deGYZcCuO2O2hMfMsjOJlp0mw6n1GikQ+m2ZnFodYVBgyn3E1LgZPuHyCHFFnrU8Qr2Penv0Pm7QSI8U1yiPsM3BgDYnA67rhhXviwJpxQ0a1cBFNXJ7cDPYHnnXOzTKp4dqfBCh3Ec+4XJ7jthC2DWPUK+xbgvngMd+LfTdYzlpM0NecYPGOuoNwAM0Yh9/anr+GkVABDtlwtXUX23rxT8Aiiw8AAAAAElFTkSuQmCC" id="heatmap-image7a218fb5c8" transform="scale(1 -1) translate(0 -71.04)" x="150.72" y="-20.16" width="4.8" height="71.04"/>
+   <g id="heatmap-matplotlib.axis_5"/>
+   <g id="heatmap-matplotlib.axis_6">
+    <g id="heatmap-ytick_13">
+     <g id="heatmap-line2d_30">
+      <defs>
+       <path id="heatmap-m18f478e115" d="M 0 0 
+L 1.5 0 
+" style="stroke: #5d6775; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="155.687759" y="91.797165" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_48">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="158.187759" y="93.906915" transform="rotate(-0 158.187759 93.906915)">−1</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_14">
+     <g id="heatmap-line2d_31">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="155.687759" y="74.018268" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_49">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="158.187759" y="76.128018" transform="rotate(-0 158.187759 76.128018)">−0,5</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_15">
+     <g id="heatmap-line2d_32">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="155.687759" y="56.23937" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_50">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="158.187759" y="58.34912" transform="rotate(-0 158.187759 58.34912)">0</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_16">
+     <g id="heatmap-line2d_33">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="155.687759" y="38.460472" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_51">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="158.187759" y="40.570222" transform="rotate(-0 158.187759 40.570222)">0,5</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_17">
+     <g id="heatmap-line2d_34">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="155.687759" y="20.681575" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_52">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="158.187759" y="22.791325" transform="rotate(-0 158.187759 22.791325)">1</text>
+     </g>
+    </g>
+   </g>
+   <g id="heatmap-LineCollection_1"/>
+  </g>
+  <g id="heatmap-axes_4">
+   <g id="heatmap-patch_20">
+    <path d="M 405.345827 145.133858 
+L 410.482205 145.133858 
+L 410.482205 18.141732 
+L 405.345827 18.141732 
+L 405.345827 145.133858 
+z
+" style="fill: none"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAsAAAEICAYAAACJTw48AAABJElEQVR4nO2YMQ7DMAwD3SL/f2qnjkXS1dl8KK6gDGUmBIqSKMWP1/tzjcXvuJahYxznOhZGvgA6h7MFbp3/A07RmdA4M6TL4PwELLood7DJuaDOhAYzGZGzZuat8wwmOu9uBdRyCZhFzijKOtbs59O767zrS9spUDpEA0WOKEqIzt0b08dcdHc1jjPjkgnRuSflh8gVE4xofo9zRm+IbwUxjYQil6ugOCnwVxqAB+OMIq+/X8ZwHgU5azqLCRKdNemY5UIaCQmanEVH6hmcIrfOt8j1dN7fCjTLRWdPRoIVi6JOSgZnS2fxhGA6Z9AAWJxgBA3P67QFhGiE9LN5mYc0UgaNFDU2H6uUSfEWfcVJ0ZpfbNGQooiT0r4x08jwjYIb9gvfzfC00L5zRQAAAABJRU5ErkJggg==" id="heatmap-image9aff715441" transform="scale(1 -1) translate(0 -126.72)" x="405.12" y="-17.76" width="5.28" height="126.72"/>
+   <g id="heatmap-matplotlib.axis_7"/>
+   <g id="heatmap-matplotlib.axis_8">
+    <g id="heatmap-ytick_18">
+     <g id="heatmap-line2d_35">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="410.482205" y="145.133858" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_53">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="412.982205" y="147.243608" transform="rotate(-0 412.982205 147.243608)">0</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_19">
+     <g id="heatmap-line2d_36">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="410.482205" y="119.735433" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_54">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="412.982205" y="121.845183" transform="rotate(-0 412.982205 121.845183)">1</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_20">
+     <g id="heatmap-line2d_37">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="410.482205" y="94.337008" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_55">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="412.982205" y="96.446758" transform="rotate(-0 412.982205 96.446758)">2</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_21">
+     <g id="heatmap-line2d_38">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="410.482205" y="68.938583" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_56">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="412.982205" y="71.048333" transform="rotate(-0 412.982205 71.048333)">3</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_22">
+     <g id="heatmap-line2d_39">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="410.482205" y="43.540157" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_57">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="412.982205" y="45.649907" transform="rotate(-0 412.982205 45.649907)">4</text>
+     </g>
+    </g>
+    <g id="heatmap-ytick_23">
+     <g id="heatmap-line2d_40">
+      <g>
+       <use xlink:href="#heatmap-m18f478e115" x="410.482205" y="18.141732" style="fill: #5d6775; stroke: #5d6775; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="heatmap-text_58">
+      <text style="font-size: 5.8px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #5d6775" x="412.982205" y="20.251482" transform="rotate(-0 412.982205 20.251482)">5</text>
+     </g>
+    </g>
+   </g>
+   <g id="heatmap-LineCollection_2"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="heatmap-pfa2cc03e57">
+   <rect x="36.382677" y="18.141732" width="137.552655" height="126.992126"/>
+  </clipPath>
+  <clipPath id="heatmap-p62c55327de">
+   <rect x="221.390998" y="18.141732" width="178.818451" height="126.992126"/>
+  </clipPath>
+ </defs>
+</svg>
