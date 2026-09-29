@@ -12,6 +12,7 @@
 | Графики справочника (готовые SVG лежат в `terms/fig/`) | `terms/charts2.py` |
 | Вёрстка справочника | `terms/build2.py`, `terms/terms2.css` |
 | Всё содержание дорожной карты и её вёрстка | `roadmap/build.py`, `roadmap/style.css` |
+| Иконка сайта (`favicon.ico`, `favicon.svg`, `apple-touch-icon.png`) | `make_icons.py`: `python make_icons.py ../` |
 
 В текстах справочника формулы пишутся в TeX между `$…$`; поле `f` статьи — список выключных формул.
 
